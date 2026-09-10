@@ -28,7 +28,9 @@ jobs:
         uses: actions/checkout@v5
         with:
           repository: astrologyir/web
-          token: ${{ secrets.ENGINE_TOKEN }}
+          # web is public — the repo token reads it; ENGINE_TOKEN (private
+          # engine access) is optional here and upgrades the checkout if set
+          token: ${{ secrets.ENGINE_TOKEN || github.token }}
           path: web
 
       - name: Checkout engine (sibling layout)
@@ -36,7 +38,7 @@ jobs:
         uses: actions/checkout@v5
         with:
           repository: astrologyir/engine
-          token: ${{ secrets.ENGINE_TOKEN }}
+          token: ${{ secrets.ENGINE_TOKEN || github.token }}
           path: engine
         continue-on-error: true
 
