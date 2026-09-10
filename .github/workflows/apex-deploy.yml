@@ -1,0 +1,137 @@
+name: Apex Deploy
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [apex-deploy]
+  # Fallback rebuild so the apex site tracks web/engine main even when
+  # web CI cannot dispatch cross-repo. Staggered after the staging
+  # (astrology.ir-dev) nightly run.
+  schedule:
+    - cron: '30 3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apex-deploy
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout self
+        uses: actions/checkout@v5
+
+      - name: Checkout web
+        uses: actions/checkout@v5
+        with:
+          repository: astrologyir/web
+          token: ${{ secrets.ENGINE_TOKEN }}
+          path: web
+
+      - name: Checkout engine (sibling layout)
+        id: engine
+        uses: actions/checkout@v5
+        with:
+          repository: astrologyir/engine
+          token: ${{ secrets.ENGINE_TOKEN }}
+          path: engine
+        continue-on-error: true
+
+      - name: Unbundle engine fallback
+        if: steps.engine.outcome != 'success'
+        run: |
+          rm -rf engine
+          git clone --branch main web/vendor/engine.bundle engine
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Install web deps
+        working-directory: web
+        run: npm ci
+
+      - name: Build swisseph-zig wasm
+        uses: actions/checkout@v5
+        with:
+          repository: mshafiee/swisseph-zig
+          ref: v2.10.3-rc2
+          path: swisseph-zig
+
+      - name: Install zig
+        uses: mlugg/setup-zig@v2
+        with:
+          version: 0.16.0
+
+      - name: Build swe.wasm
+        working-directory: swisseph-zig
+        run: zig build wasm
+
+      - name: Fetch ephe + build era packs
+        working-directory: engine
+        run: |
+          mkdir -p "$RUNNER_TEMP/ephe"
+          for f in sepl_18.se1 semo_18.se1 seas_18.se1; do
+            curl -fsSL "https://github.com/aloistr/swisseph/raw/master/ephe/$f" -o "$RUNNER_TEMP/ephe/$f"
+          done
+          EPHE_DIR="$RUNNER_TEMP/ephe" node tools/make-packs.mjs
+
+      - name: Build citydb (GeoNames cities1000 + alternateNamesV2, cached)
+        working-directory: engine
+        run: |
+          mkdir -p /tmp/geonames
+          if [ ! -f /tmp/geonames/cities500.txt ]; then
+            curl -sSL -o /tmp/geonames/cities500.zip https://download.geonames.org/export/dump/cities500.zip
+            unzip -o /tmp/geonames/cities500.zip -d /tmp/geonames
+          fi
+          # alternates: per-locale display names + non-latin search tokens
+          # (arabic shard — برلین/تهران). ~270 MB zip; streamed by the
+          # builder (readline), CC-BY 4.0.
+          if [ ! -f /tmp/geonames/alternateNamesV2.txt ]; then
+            curl -sSL -o /tmp/geonames/alternateNamesV2.zip https://download.geonames.org/export/dump/alternateNamesV2.zip
+            unzip -o /tmp/geonames/alternateNamesV2.zip -d /tmp/geonames
+          fi
+          node tools/citydb-build.mjs --in /tmp/geonames/cities500.txt \
+            --alternates /tmp/geonames/alternateNamesV2.txt --out citydb/out
+
+      - name: Link engine artifacts
+        working-directory: web
+        env:
+          ENGINE_DIR: ${{ github.workspace }}/engine
+        run: |
+          mkdir -p ../engine/vendor
+          cp ../swisseph-zig/zig-out/wasm/swe.wasm ../engine/vendor/swe.wasm
+          node tools/link-engine.mjs || true
+          node tools/link-citydb.mjs || true
+
+      # Apex: ROOT-relative paths — BASE_PATH stays unset (svelte.config.js
+      # default) so https://astrologyir.github.io/ serves the site at /.
+      - name: Build web (Pages apex root)
+        working-directory: web
+        run: npm run build
+
+      - name: SPA fallback + per-deploy SW cache version
+        env:
+          # Track the web source being built (dispatch payload), falling
+          # back to the run id so scheduled/manual runs are always unique.
+          SW_VERSION: ${{ github.event.client_payload.sha || github.run_id }}
+        run: |
+          cp web/build/index.html web/build/404.html
+          # VERSION keys the service worker's Cache API storage; a unique
+          # value per deploy makes activate() evict every stale cache, so
+          # returning browsers always get the fresh vendor artifacts
+          # (cache-first vendor strategy otherwise serves them forever).
+          sed -i "s/^const VERSION = .*/const VERSION = 'apex-${SW_VERSION}';/" web/build/sw.js
+
+      - name: Deploy build output to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: web/build
+          force_orphan: true
