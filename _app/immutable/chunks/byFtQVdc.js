@@ -1,0 +1,1 @@
+import{m as e}from"./BrU2zzLX.js";var t=()=>`technical details`,n=()=>`جزئیات فنی`,r=()=>`ریزه‌کاری‌های فنی`,i=()=>`تفاصيل تقنية`,a=()=>`détails techniques`,o=()=>`technische Details`,s=()=>`detalles técnicos`,c=((c={},l={})=>{let u=l.locale??e();return u===`fa`?n(c):u===`fa-x-sare`?r(c):u===`ar`?i(c):u===`fr`?a(c):u===`de`?o(c):u===`es`?s(c):t(c)});export{c as t};

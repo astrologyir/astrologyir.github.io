@@ -1,0 +1,1 @@
+import{m as e}from"./BrU2zzLX.js";var t=()=>`back`,n=()=>`بازگشت`,r=()=>`بازگشت`,i=()=>`رجوع`,a=()=>`retour`,o=()=>`zurück`,s=()=>`atrás`,c=((c={},l={})=>{let u=l.locale??e();return u===`fa`?n(c):u===`fa-x-sare`?r(c):u===`ar`?i(c):u===`fr`?a(c):u===`de`?o(c):u===`es`?s(c):t(c)});export{c as t};

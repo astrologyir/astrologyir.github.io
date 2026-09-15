@@ -1,0 +1,1 @@
+import{m as e}from"./BrU2zzLX.js";var t=()=>`Computation failed`,n=()=>`محاسبه ناموفق بود`,r=()=>`رایانش شکست خورد`,i=()=>`فشل الحساب`,a=()=>`calcul échoué`,o=()=>`Berechnung fehlgeschlagen`,s=()=>`falló el cálculo`,c=((c={},l={})=>{let u=l.locale??e();return u===`fa`?n(c):u===`fa-x-sare`?r(c):u===`ar`?i(c):u===`fr`?a(c):u===`de`?o(c):u===`es`?s(c):t(c)});export{c as t};

@@ -1,0 +1,1 @@
+import{m as e}from"./BrU2zzLX.js";var t=()=>`searching…`,n=()=>`در حال جستجو…`,r=()=>`در حال جستجو…`,i=()=>`جارٍ البحث…`,a=()=>`recherche…`,o=()=>`Suche…`,s=()=>`buscando…`,c=((c={},l={})=>{let u=l.locale??e();return u===`fa`?n(c):u===`fa-x-sare`?r(c):u===`ar`?i(c):u===`fr`?a(c):u===`de`?o(c):u===`es`?s(c):t(c)});export{c as t};
