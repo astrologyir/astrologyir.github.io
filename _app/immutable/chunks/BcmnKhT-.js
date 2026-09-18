@@ -1,0 +1,1 @@
+import"./CeOf7JFa.js";var e=()=>`buscando…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale!==`es`&&console.warn(`Paraglide: options.locale cannot override a locale-specialized client bundle; use a full document navigation to switch locales.`),e(t)));export{t};

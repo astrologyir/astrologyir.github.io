@@ -1,0 +1,1 @@
+import"./BaICUmZC.js";var e=()=>`پیشخوان روزانه اخترشناسی: ساعات کواکب، اوقات شرعی، اهله قمر، کسوف‌ها و رویدادهای آسمان؛ محاسبه در مرورگر شما.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale!==`fa`&&console.warn(`Paraglide: options.locale cannot override a locale-specialized client bundle; use a full document navigation to switch locales.`),e(t)));export{t};

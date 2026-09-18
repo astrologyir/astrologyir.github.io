@@ -1,0 +1,1 @@
+import"./BfI8NFdI.js";var e=()=>`Daily astrology dashboard: planetary hours, prayer times, Moon phases, eclipses and sky events, computed in your browser.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale!==`en`&&console.warn(`Paraglide: options.locale cannot override a locale-specialized client bundle; use a full document navigation to switch locales.`),e(t)));export{t};

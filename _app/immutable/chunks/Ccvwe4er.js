@@ -1,0 +1,1 @@
+import"./BaICUmZC.js";var e=()=>`محاسبه ناموفق بود`,t=((t={},n={})=>(n.locale!==void 0&&n.locale!==`fa`&&console.warn(`Paraglide: options.locale cannot override a locale-specialized client bundle; use a full document navigation to switch locales.`),e(t)));export{t};

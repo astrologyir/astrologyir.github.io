@@ -1,0 +1,1 @@
+import"./CIBwSO6p.js";var e=()=>`Mondtag`,t=((t={},n={})=>(n.locale!==void 0&&n.locale!==`de`&&console.warn(`Paraglide: options.locale cannot override a locale-specialized client bundle; use a full document navigation to switch locales.`),e(t)));export{t};

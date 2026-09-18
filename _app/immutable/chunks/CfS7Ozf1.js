@@ -1,0 +1,1 @@
+import"./CrpxDW_4.js";var e=()=>`calcul…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale!==`fr`&&console.warn(`Paraglide: options.locale cannot override a locale-specialized client bundle; use a full document navigation to switch locales.`),e(t)));export{t};

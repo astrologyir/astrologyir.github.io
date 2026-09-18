@@ -1,0 +1,1 @@
+import"./BCNTGEHv.js";var e=()=>`لوحة التنجيم اليومية: الساعات الكوكبية، مواقيت الصلاة، أطوار القمر، الكسوفات وأحداث السماء؛ تُحسب في متصفحك.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale!==`ar`&&console.warn(`Paraglide: options.locale cannot override a locale-specialized client bundle; use a full document navigation to switch locales.`),e(t)));export{t};
