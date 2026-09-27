@@ -118,22 +118,42 @@ jobs:
         working-directory: web
         run: npm run build
 
-      - name: SPA fallback + per-deploy SW cache version
+      # Per-domain variant pass. The build emits __ASTROLOGY_*__ tokens (not a
+      # real origin) so ONE build can be shared by every apex; this step
+      # stamps this domain's values in. The `if [ -f ]` guard keeps the
+      # workflow valid against a pre-token web checkout, so either merge
+      # order is safe (this repo has no ref pin on the web checkout and
+      # rebuilds nightly on cron).
+      #
+      # NOTE: do NOT overwrite 404.html with index.html. The adapter's own
+      # fallback shell must stand — a home-page copy boots the root
+      # redirector at unknown paths and renders a blank "computing…" page
+      # instead of the error page. peaceiris adds .nojekyll itself.
+      - name: Per-domain variant + per-deploy SW cache version
+        id: variant
         env:
           # Track the web source being built (dispatch payload), falling
           # back to the run id so scheduled/manual runs are always unique.
           SW_VERSION: ${{ github.event.client_payload.sha || github.run_id }}
         run: |
-          cp web/build/index.html web/build/404.html
+          set -euo pipefail
+          if [ -f web/tools/build-domains.mjs ]; then
+            (cd web && node tools/build-domains.mjs --variant=github)
+            PUBLISH=web/build-domains/astrologyir-github-io
+          else
+            echo "::warning::web/tools/build-domains.mjs absent — publishing raw build (pre-token web)"
+            PUBLISH=web/build
+          fi
+          echo "publish_dir=$PUBLISH" >> "$GITHUB_OUTPUT"
           # VERSION keys the service worker's Cache API storage; a unique
           # value per deploy makes activate() evict every stale cache, so
           # returning browsers always get the fresh vendor artifacts
           # (cache-first vendor strategy otherwise serves them forever).
-          sed -i "s/^const VERSION = .*/const VERSION = 'apex-${SW_VERSION}';/" web/build/sw.js
+          sed -i "s/^const VERSION = .*/const VERSION = 'apex-${SW_VERSION}';/" "$PUBLISH/sw.js"
 
       - name: Deploy build output to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: web/build
+          publish_dir: ${{ steps.variant.outputs.publish_dir }}
           force_orphan: true
