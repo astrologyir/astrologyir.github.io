@@ -1,0 +1,1 @@
+import"./sojQD09h.js";var e=()=>`قمر خالی السیر + آنے والے نظرات`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`وقت`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

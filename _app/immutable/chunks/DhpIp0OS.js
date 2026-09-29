@@ -1,0 +1,1 @@
+import"./DCc_fjow.js";var e=()=>`Horaires de prière pour toute ville et toute convention, avec angles solaires — calculés sur votre appareil.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./DCBmpnk8.js";var e=()=>`شماره`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`اباختر (سیاره)`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`فرمان‌روا`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

@@ -1,0 +1,1 @@
+import"./DSQ7VTyF.js";var e=()=>`Ay boşlukta + yaklaşan açılar`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Saat`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

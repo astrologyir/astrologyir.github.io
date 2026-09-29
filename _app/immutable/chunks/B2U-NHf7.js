@@ -1,0 +1,1 @@
+import"./DSQ7VTyF.js";var e=()=>`Her şehir ve ekol için güneş açılarıyla namaz vakitleri — cihazınızda hesaplanır.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

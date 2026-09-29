@@ -1,0 +1,1 @@
+import"./jRm1_1Mc.js";var e=()=>`Waktu salat umat Muslim untuk kota dan konvensi apa pun, dengan sudut matahari — dihitung di perangkat Anda.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

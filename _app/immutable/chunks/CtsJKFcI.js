@@ -1,0 +1,1 @@
+import"./sojQD09h.js";var e=()=>`تاریخ`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

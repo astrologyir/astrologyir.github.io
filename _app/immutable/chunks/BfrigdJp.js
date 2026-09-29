@@ -1,0 +1,1 @@
+import"./BIa4-qOu.js";var e=()=>`الفعاليات`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

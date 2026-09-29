@@ -1,0 +1,1 @@
+import"./DCBmpnk8.js";var e=()=>`مرز کده`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`برج`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

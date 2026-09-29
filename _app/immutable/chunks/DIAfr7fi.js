@@ -1,0 +1,1 @@
+import"./C2bd_Wx2.js";var e=()=>`Моҳи беҷараён + ҷанбаҳои наздик`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Вақт`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

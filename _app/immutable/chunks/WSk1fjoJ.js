@@ -1,0 +1,1 @@
+import"./DLOXsHD-.js";var e=()=>`مواضع تقریبی کواکب (در انتظار بارگذاری بسته برون‌خط)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./BIa4-qOu.js";var e=()=>`كاسب`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`البرج`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

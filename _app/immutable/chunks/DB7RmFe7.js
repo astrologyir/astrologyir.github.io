@@ -1,0 +1,1 @@
+import"./sojQD09h.js";var e=()=>`نقشہ`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

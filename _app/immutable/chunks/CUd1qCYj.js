@@ -1,0 +1,1 @@
+import"./DpdhJdmI.js";var e=()=>`bugun`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

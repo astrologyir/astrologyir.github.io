@@ -1,0 +1,1 @@
+import"./DSQ7VTyF.js";var e=()=>`gezegen saati`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

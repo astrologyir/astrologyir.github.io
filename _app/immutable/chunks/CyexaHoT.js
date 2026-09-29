@@ -1,0 +1,1 @@
+import"./DpdhJdmI.js";var e=()=>`Har qanday shahar va konvensiya uchun quyosh burchaklari bilan namoz vaqtlari — qurilmangizda hisoblanadi.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

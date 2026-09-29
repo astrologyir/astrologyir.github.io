@@ -1,0 +1,1 @@
+import"./Dh2GkZcs.js";var e=()=>`হিসাব করুন`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

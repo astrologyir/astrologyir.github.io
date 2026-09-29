@@ -1,0 +1,1 @@
+import"./C2bd_Wx2.js";var e=()=>`Имрӯз дар тақвимҳои дигар`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

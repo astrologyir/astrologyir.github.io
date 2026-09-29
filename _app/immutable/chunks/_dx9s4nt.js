@@ -1,0 +1,1 @@
+import"./jRm1_1Mc.js";var e=()=>`Efemeris harian yang dihitung di browser Anda: posisi planet, almanak-kehormatan, fase bulan, periode bulan void-of-course, gerhana, dan peristiwa langit.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Efemeris harian: planet, fase bulan dan gerhana`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

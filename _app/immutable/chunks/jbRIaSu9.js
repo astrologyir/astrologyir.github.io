@@ -1,0 +1,1 @@
+import"./DLOXsHD-.js";var e=()=>`فلک مضاعف عبور`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

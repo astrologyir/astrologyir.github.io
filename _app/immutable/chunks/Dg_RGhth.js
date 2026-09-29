@@ -1,0 +1,1 @@
+import"./BLr6mmb0.js";var e=()=>`поиск…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

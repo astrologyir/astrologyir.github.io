@@ -1,0 +1,1 @@
+import"./DWET8dyf.js";var e=()=>`راتلونکی`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

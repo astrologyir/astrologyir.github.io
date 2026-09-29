@@ -1,0 +1,1 @@
+import"./Dh2GkZcs.js";var e=()=>`বন্ধ করুন`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

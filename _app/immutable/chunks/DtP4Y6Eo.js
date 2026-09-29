@@ -1,0 +1,1 @@
+import"./CtA98HRn.js";var e=()=>`fuera de curso`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

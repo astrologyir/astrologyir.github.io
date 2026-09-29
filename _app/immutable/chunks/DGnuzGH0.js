@@ -1,0 +1,1 @@
+import"./CtA98HRn.js";var e=()=>`Luna fuera de curso + próximos aspectos`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Hora`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

@@ -1,0 +1,1 @@
+import"./Dh2GkZcs.js";var e=()=>`অন্যান্য পঞ্জিকায় আজ`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

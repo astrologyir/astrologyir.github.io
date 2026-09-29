@@ -1,0 +1,1 @@
+import"./DSQ7VTyF.js";var e=()=>`bugün`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

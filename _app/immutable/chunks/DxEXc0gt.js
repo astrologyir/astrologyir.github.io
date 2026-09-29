@@ -1,0 +1,1 @@
+import"./Dh2GkZcs.js";var e=()=>`নং`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`গ্রহ`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`পতি`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

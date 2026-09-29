@@ -1,0 +1,1 @@
+import"./CtA98HRn.js";var e=()=>`gregoriano`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`hiyrí`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`yalalí`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

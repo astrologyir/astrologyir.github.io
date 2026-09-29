@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WSG9L262');</script>
+    <meta name="theme-color" content="#f7f8f4" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#121a16" media="(prefers-color-scheme: dark)" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script>
+      // Boot script (plan §14.10, taghvim PREFERENCES_BOOT_SCRIPT):
+      // re-apply stored settings BEFORE first paint — no dark-mode
+      // flash. Mirrors lib/design/preferences.ts parse rules; keep the
+      // two in sync (validated enums, defaults on unknown).
+      (function () {
+        try {
+          // js flag for entrance motion (reveal CSS stays settled without
+          // it — no-JS never hides content). Set pre-paint with the rest.
+          document.documentElement.classList.add('js');
+          var get = function (k, options, dflt) {
+            var v = null;
+            try { v = localStorage.getItem(k); } catch (e) {}
+            return options.indexOf(v) >= 0 ? v : dflt;
+          };
+          var theme = get('air.theme', ['auto', 'light', 'dark'], 'auto');
+          var size = get('air.size', ['sm', 'md', 'lg'], 'md');
+          var font = get('air.font', ['vazirmatn', 'shabnam', 'sahel', 'system'], 'vazirmatn');
+          var html = document.documentElement;
+          if (theme === 'auto') html.removeAttribute('data-theme');
+          else html.setAttribute('data-theme', theme);
+          html.setAttribute('data-size', size);
+          html.setAttribute('data-font', font);
+          // Palette pre-paint: forest = attribute absent (keep in sync
+          // with lib/design/preferences.ts PALETTES/DEFAULTS.palette).
+          var palette = get('air.palette', ['night', 'sepia'], null);
+          if (palette) html.setAttribute('data-palette', palette);
+          else html.removeAttribute('data-palette');
+          // Density pre-paint: comfortable = attribute absent (keep in
+          // sync with DENSITIES/DEFAULTS.density — same allowlist).
+          var density = get('air.density', ['comfortable', 'compact'], 'comfortable');
+          if (density === 'compact') html.setAttribute('data-density', density);
+          else html.removeAttribute('data-density');
+          // Language pre-paint (§8 detection chain: URL prefix wins, then
+          // saved → browser → en). The URL is authoritative under the
+          // locale-prefixed routing; storage only feeds the root redirect.
+          var LOCALES = ['fa', 'fa-x-sare', 'ar', 'bn', 'de', 'en', 'es', 'fr', 'id', 'ps', 'ru', 'tg', 'tr', 'ur', 'uz'];
+          var MIGRATED_KEY = 'air.locale.v2';
+          var migrated = false;
+          try { migrated = localStorage.getItem(MIGRATED_KEY) === '1'; } catch (e) {}
+          var loc = null;
+          try {
+            // URL prefix wins (first segment, or second under a subpath
+            // base): /fa/… and /astrology.ir-dev/fa/… both resolve fa.
+            var segs = location.pathname.split('/').filter(Boolean);
+            for (var s = 0; s < Math.min(segs.length, 2); s++) {
+              if (LOCALES.indexOf(segs[s]) >= 0) { loc = segs[s]; break; }
+            }
+          } catch (e) {}
+          if (!loc) loc = get('air.locale', LOCALES, null);
+          if (!loc) {
+            try {
+              var legacy = localStorage.getItem('locale');
+              if (legacy && LOCALES.indexOf(legacy) >= 0) {
+                loc = legacy;
+                try { localStorage.removeItem('locale'); } catch (e) {}
+              }
+            } catch (e) {}
+          }
+          if (!migrated) {
+            // One-time Persian split: a stored 'fa' predates fa-x-sare and
+            // meant سره — carry it over; fresh picks keep the new default.
+            // Mirror in lib/locale.ts; keep the two in sync.
+            if (loc === 'fa') {
+              loc = 'fa-x-sare';
+              try { localStorage.setItem('air.locale', loc); } catch (e) {}
+            }
+            try { localStorage.setItem(MIGRATED_KEY, '1'); } catch (e) {}
+          }
+          if (!loc) {
+            var tags = (navigator.languages && navigator.languages.length)
+              ? navigator.languages
+              : (navigator.language ? [navigator.language] : []);
+            for (var i = 0; i < tags.length; i++) {
+              var tag = String(tags[i]).toLowerCase();
+              if (LOCALES.indexOf(tag) >= 0) { loc = tag; break; }
+              var base = tag.split('-')[0];
+              if (LOCALES.indexOf(base) >= 0) { loc = base; break; }
+            }
+          }
+          // Host default: en on astrology.tips, fa on every other apex.
+          // Mirrors defaultLocaleFor() in lib/domains.mjs — keep in sync.
+          // This runs before any module loads, so the table cannot be
+          // imported; the table is the source of truth and this is a
+          // pre-paint mirror of it (test/seo.test.mjs asserts they agree).
+          var HOST_DEFAULT = /(^|\.)astrology\.tips$/.test(location.hostname) ? 'en' : 'fa';
+          loc = loc || HOST_DEFAULT;
+          html.setAttribute('lang', loc);
+          html.setAttribute('dir', loc === 'fa' || loc === 'fa-x-sare' || loc === 'ar' || loc === 'ur' || loc === 'ps' ? 'rtl' : 'ltr');
+        } catch (e) {
+          /* defaults come from tokens.css :root */
+        }
+      })();
+    </script>
+    <link href="/_app/immutable/entry/start.CGxDClqv.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CmP7qW0C.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DMStJz-C.js" rel="modulepreload">
+		<link href="/_app/immutable/entry/app.Bo4J2gai.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/HclGiUj8.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/xihTtKlq.js" rel="modulepreload">
+		<link href="/_app/immutable/nodes/0.CUr0UB74.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/D2jWG8fd.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DMceDCrd.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/3us74BAQ.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BVH3hYz3.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/B8VH3HqD.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CS2YSXOt.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DuuOK8zL.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BJCgN8gC.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/C3eM_dlD.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CbQzx7Xt.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/Bw0IJv_u.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/C8FGLGTr.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/9-DjStoB.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CCmSpC-k.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/D0GuF9C_.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DQIie7VV.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DsfYt8ew.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/pwE6Qy8o.js" rel="modulepreload">
+		<link href="/_app/immutable/assets/0.DJ4QJmdI.css" rel="stylesheet">
+      <title>Page not found</title>
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSG9L262"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div style="display: contents">
+			<script>
+				{
+					__sveltekit_1gqlgma = {
+						base: ""
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("/_app/immutable/entry/start.CGxDClqv.js"),
+						import("/_app/immutable/entry/app.Bo4J2gai.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		</div>
+  </body>
+</html>

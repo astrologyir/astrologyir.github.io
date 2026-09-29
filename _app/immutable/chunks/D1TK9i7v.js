@@ -1,0 +1,1 @@
+import"./DWET8dyf.js";var e=()=>`تشه سپوږمۍ + راتلونکي اړخونه`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`وخت`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

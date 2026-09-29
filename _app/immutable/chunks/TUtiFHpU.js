@@ -1,0 +1,1 @@
+import"./DCBmpnk8.js";var e=()=>`خداوند ساعت`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

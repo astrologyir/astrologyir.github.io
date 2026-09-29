@@ -1,0 +1,1 @@
+import"./DWET8dyf.js";var e=()=>`د ساعت حاکم`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

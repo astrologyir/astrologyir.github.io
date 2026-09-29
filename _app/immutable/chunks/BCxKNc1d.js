@@ -1,0 +1,1 @@
+import"./BLr6mmb0.js";var e=()=>`Луна без курса + сходящиеся аспекты`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Время`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

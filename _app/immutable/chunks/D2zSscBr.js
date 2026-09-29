@@ -1,0 +1,1 @@
+import"./DCc_fjow.js";var e=()=>`Positions approximatives (paquet hors ligne à venir)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

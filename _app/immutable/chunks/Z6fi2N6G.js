@@ -1,0 +1,1 @@
+import"./CAhMH4Gu.js";var e=()=>`Ungefähre Positionen (Offline-Paket folgt)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

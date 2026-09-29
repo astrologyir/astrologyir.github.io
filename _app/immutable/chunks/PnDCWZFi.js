@@ -1,0 +1,1 @@
+import"./BIa4-qOu.js";var e=()=>`ميلادي`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`هجري`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`جلالي`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

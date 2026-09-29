@@ -1,0 +1,1 @@
+import"./DWET8dyf.js";var e=()=>`نن په نورو کلیزو کې`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./DpdhJdmI.js";var e=()=>`Oy bo‘shliqda + yaqin jihatlar`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Vaqt`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

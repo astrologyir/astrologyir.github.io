@@ -1,0 +1,1 @@
+import"./DpdhJdmI.js";var e=()=>`cho‘qqi`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`burj`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

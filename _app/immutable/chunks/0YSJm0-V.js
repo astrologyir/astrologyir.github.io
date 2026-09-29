@@ -1,0 +1,1 @@
+import"./jRm1_1Mc.js";var e=()=>`jenis`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

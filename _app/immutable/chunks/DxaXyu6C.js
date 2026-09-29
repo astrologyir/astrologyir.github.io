@@ -1,0 +1,1 @@
+import"./BLr6mmb0.js";var e=()=>`Вычисляется в вашем браузере…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

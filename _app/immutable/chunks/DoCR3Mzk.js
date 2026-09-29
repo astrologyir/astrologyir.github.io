@@ -1,0 +1,1 @@
+import"./CAhMH4Gu.js";var e=()=>`Spitze`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Zeichen`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

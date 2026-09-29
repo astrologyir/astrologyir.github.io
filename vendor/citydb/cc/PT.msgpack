@@ -1,0 +1,585 @@
+��v�count�7�tz���Africa/Abidjan�Africa/Accra�Africa/Addis_Ababa�Africa/Algiers�Africa/Asmara�Africa/Bamako�Africa/Bangui�Africa/Banjul�Africa/Bissau�Africa/Blantyre�Africa/Brazzaville�Africa/Bujumbura�Africa/Cairo�Africa/Casablanca�Africa/Ceuta�Africa/Conakry�Africa/Dakar�Africa/Dar_es_Salaam�Africa/Djibouti�Africa/Douala�Africa/El_Aaiun�Africa/Freetown�Africa/Gaborone�Africa/Harare�Africa/Johannesburg�Africa/Juba�Africa/Kampala�Africa/Khartoum�Africa/Kigali�Africa/Kinshasa�Africa/Lagos�Africa/Libreville�Africa/Lome�Africa/Luanda�Africa/Lubumbashi�Africa/Lusaka�Africa/Malabo�Africa/Maputo�Africa/Maseru�Africa/Mbabane�Africa/Mogadishu�Africa/Monrovia�Africa/Nairobi�Africa/Ndjamena�Africa/Niamey�Africa/Nouakchott�Africa/Ouagadougou�Africa/Porto-Novo�Africa/Sao_Tome�Africa/Tripoli�Africa/Tunis�Africa/Windhoek�America/Anchorage�America/Anguilla�America/Antigua�America/Araguaina�America/Argentina/Buenos_Aires�America/Argentina/Catamarca�America/Argentina/Cordoba�America/Argentina/Jujuy�America/Argentina/La_Rioja�America/Argentina/Mendoza�America/Argentina/Rio_Gallegos�America/Argentina/Salta�America/Argentina/San_Juan�America/Argentina/San_Luis�America/Argentina/Tucuman�America/Argentina/Ushuaia�America/Aruba�America/Asuncion�America/Atikokan�America/Bahia�America/Bahia_Banderas�America/Barbados�America/Belem�America/Belize�America/Blanc-Sablon�America/Boa_Vista�America/Bogota�America/Boise�America/Cambridge_Bay�America/Campo_Grande�America/Cancun�America/Caracas�America/Cayenne�America/Cayman�America/Chicago�America/Chihuahua�America/Ciudad_Juarez�America/Costa_Rica�America/Coyhaique�America/Creston�America/Cuiaba�America/Curacao�America/Dawson�America/Dawson_Creek�America/Denver�America/Detroit�America/Dominica�America/Edmonton�America/Eirunepe�America/El_Salvador�America/Fort_Nelson�America/Fortaleza�America/Glace_Bay�America/Goose_Bay�America/Grand_Turk�America/Grenada�America/Guadeloupe�America/Guatemala�America/Guayaquil�America/Guyana�America/Halifax�America/Havana�America/Hermosillo�America/Indiana/Indianapolis�America/Indiana/Knox�America/Indiana/Marengo�America/Indiana/Petersburg�America/Indiana/Tell_City�America/Indiana/Vevay�America/Indiana/Vincennes�America/Indiana/Winamac�America/Inuvik�America/Iqaluit�America/Jamaica�America/Juneau�America/Kentucky/Louisville�America/Kentucky/Monticello�America/Kralendijk�America/La_Paz�America/Lima�America/Los_Angeles�America/Lower_Princes�America/Maceio�America/Managua�America/Manaus�America/Marigot�America/Martinique�America/Matamoros�America/Mazatlan�America/Menominee�America/Merida�America/Metlakatla�America/Mexico_City�America/Miquelon�America/Moncton�America/Monterrey�America/Montevideo�America/Montserrat�America/Nassau�America/New_York�America/Nome�America/Noronha�America/North_Dakota/Beulah�America/North_Dakota/Center�America/North_Dakota/New_Salem�America/Nuuk�America/Ojinaga�America/Panama�America/Paramaribo�America/Phoenix�America/Port-au-Prince�America/Port_of_Spain�America/Porto_Velho�America/Puerto_Rico�America/Punta_Arenas�America/Rankin_Inlet�America/Recife�America/Regina�America/Rio_Branco�America/Santarem�America/Santiago�America/Santo_Domingo�America/Sao_Paulo�America/Sitka�America/St_Barthelemy�America/St_Johns�America/St_Kitts�America/St_Lucia�America/St_Thomas�America/St_Vincent�America/Swift_Current�America/Tegucigalpa�America/Thule�America/Tijuana�America/Toronto�America/Tortola�America/Vancouver�America/Whitehorse�America/Winnipeg�America/Yakutat�Arctic/Longyearbyen�Asia/Aden�Asia/Almaty�Asia/Amman�Asia/Anadyr�Asia/Aqtau�Asia/Aqtobe�Asia/Ashgabat�Asia/Atyrau�Asia/Baghdad�Asia/Bahrain�Asia/Baku�Asia/Bangkok�Asia/Barnaul�Asia/Beirut�Asia/Bishkek�Asia/Brunei�Asia/Chita�Asia/Colombo�Asia/Damascus�Asia/Dhaka�Asia/Dili�Asia/Dubai�Asia/Dushanbe�Asia/Famagusta�Asia/Gaza�Asia/Hebron�Asia/Ho_Chi_Minh�Asia/Hong_Kong�Asia/Hovd�Asia/Irkutsk�Asia/Jakarta�Asia/Jayapura�Asia/Jerusalem�Asia/Kabul�Asia/Kamchatka�Asia/Karachi�Asia/Kathmandu�Asia/Kolkata�Asia/Krasnoyarsk�Asia/Kuala_Lumpur�Asia/Kuching�Asia/Kuwait�Asia/Macau�Asia/Magadan�Asia/Makassar�Asia/Manila�Asia/Muscat�Asia/Nicosia�Asia/Novokuznetsk�Asia/Novosibirsk�Asia/Omsk�Asia/Oral�Asia/Phnom_Penh�Asia/Pontianak�Asia/Pyongyang�Asia/Qatar�Asia/Qostanay�Asia/Qyzylorda�Asia/Riyadh�Asia/Sakhalin�Asia/Samarkand�Asia/Seoul�Asia/Shanghai�Asia/Singapore�Asia/Taipei�Asia/Tashkent�Asia/Tbilisi�Asia/Tehran�Asia/Thimphu�Asia/Tokyo�Asia/Tomsk�Asia/Ulaanbaatar�Asia/Urumqi�Asia/Vientiane�Asia/Vladivostok�Asia/Yakutsk�Asia/Yangon�Asia/Yekaterinburg�Asia/Yerevan�Atlantic/Azores�Atlantic/Bermuda�Atlantic/Canary�Atlantic/Cape_Verde�Atlantic/Faroe�Atlantic/Madeira�Atlantic/Reykjavik�Atlantic/South_Georgia�Atlantic/St_Helena�Atlantic/Stanley�Australia/Adelaide�Australia/Brisbane�Australia/Broken_Hill�Australia/Darwin�Australia/Hobart�Australia/Melbourne�Australia/Perth�Australia/Sydney�Europe/Amsterdam�Europe/Andorra�Europe/Astrakhan�Europe/Athens�Europe/Belgrade�Europe/Berlin�Europe/Bratislava�Europe/Brussels�Europe/Bucharest�Europe/Budapest�Europe/Busingen�Europe/Chisinau�Europe/Copenhagen�Europe/Dublin�Europe/Gibraltar�Europe/Guernsey�Europe/Helsinki�Europe/Isle_of_Man�Europe/Istanbul�Europe/Jersey�Europe/Kaliningrad�Europe/Kirov�Europe/Kyiv�Europe/Lisbon�Europe/Ljubljana�Europe/London�Europe/Luxembourg�Europe/Madrid�Europe/Malta�Europe/Mariehamn�Europe/Minsk�Europe/Monaco�Europe/Moscow�Europe/Oslo�Europe/Paris�Europe/Podgorica�Europe/Prague�Europe/Riga�Europe/Rome�Europe/Samara�Europe/San_Marino�Europe/Sarajevo�Europe/Saratov�Europe/Simferopol�Europe/Skopje�Europe/Sofia�Europe/Stockholm�Europe/Tallinn�Europe/Tirane�Europe/Ulyanovsk�Europe/Vaduz�Europe/Vatican�Europe/Vienna�Europe/Vilnius�Europe/Volgograd�Europe/Warsaw�Europe/Zagreb�Europe/Zurich�Indian/Antananarivo�Indian/Chagos�Indian/Christmas�Indian/Cocos�Indian/Comoro�Indian/Kerguelen�Indian/Mahe�Indian/Maldives�Indian/Mauritius�Indian/Mayotte�Indian/Reunion�Pacific/Apia�Pacific/Auckland�Pacific/Bougainville�Pacific/Chatham�Pacific/Chuuk�Pacific/Easter�Pacific/Efate�Pacific/Fakaofo�Pacific/Fiji�Pacific/Funafuti�Pacific/Galapagos�Pacific/Gambier�Pacific/Guadalcanal�Pacific/Guam�Pacific/Honolulu�Pacific/Kiritimati�Pacific/Kosrae�Pacific/Kwajalein�Pacific/Majuro�Pacific/Marquesas�Pacific/Nauru�Pacific/Niue�Pacific/Norfolk�Pacific/Noumea�Pacific/Pago_Pago�Pacific/Palau�Pacific/Pitcairn�Pacific/Pohnpei�Pacific/Port_Moresby�Pacific/Rarotonga�Pacific/Saipan�Pacific/Tahiti�Pacific/Tarawa�Pacific/Tongatapu�Pacific/Wallis�cols��ordinal�L��̜��̐��̴��̘O̔̛��S̋��̽̱����̰̗�����lat��̙̔0����-����/̫̂/����/̴̪0��̳-̬̆.��̕0����/��̶2̢̠-̷̰0����/��̭(����0̨��.̲̇0����.��̹/̤̎0����/̛̦/����/����/����/����/����/̩̆0̶��/��̱/̷̈0̢̖0̖̯-��̿.̈̔0��̚/����/̘̌0��̫0��̟/��̼0̩̒-̘̻0̮��0̗̀/����/����/��̮/��̪.��̲-̐��/����.̸̃/̪̥/̬��0̊��0��̔0��́0̩̄.��̢-����-��̕/��̈(̜̄/̢̡0̮̄0̾̄(̰��-̖��'����/̺̑0����.̞̐0����'����-̈̅.��̷/̖̀0̱̀0��̇(̤��/̜̲/̺̄/����'̖̟/��̼.̖̭-̪̽-����/����'̠̓/̬��'��̶/̲��/̻̀.̴̒.��̬.̤��/̀̅(̨��'̈̔0̜̥-����'��̴/����'��̬.��̷0��̥-̢̈/����/̎��/��̧.̞̑0��̖-̠̭/̛̪/̺̂0̩̚/̸��'̞̓0̸̾0����.��̱0̨��/��̖/̯̊/̖̊/��̗/��̧/��̞-��̡/̠̎-̤��0̬��'��̖0��̚/��̝0��̮/̸̄/̢̺/̸̏(��̫0��̢-����'̼̚.̮̲0��̪-̼��.����/̩̆-̺̩/̎��/����/̜��'��̆(����0̬̳/̂̋0̎̔/̚̚/��̷/����/̨̼-̬̅0̯̐.��̕0̞��0̬̟0����'̴̶0��̝/��̪-̴̊/��̥0̤̱-̞̚/̶��-̲̂0̠��/̭̈/��̩/��̩/̬̣-��̀0��̙-̚��/̪��0̰̬/̼̝/̮̭/����-̌̆0̖��'̜̞0̵̆.��̫0����/̢̏0̸��.̲��.̢̫/����/��̟/̢��0����0��̖/��̱-��̟/����/̢̙0̴̙0��̕0̈��/����-̨̢-̵̢.̶̜0����/̘̗/����0̊��0��̢0̶̞0̸��-����/̘��0̮̄-����-��̭/��̗0����/����0̧̐/̥̌/̤̋0��̡0����-̒��/����0��̯-̒��/̆��/̾��'̧̂0����'��̶0̪̹0��̤0��̣-��̪/̜��'����/����0̪̳/��̴0��̪-��̢/̘̩/̡̒/����0��̙/��̟-̘̀/̪̟0̘̥-̖̮0̴̪-��̫0��̵0̀��0��̩-̘��.��̹0��̌0̨̖0̐̈0��̍0��̝-̂��'����/��̑0��̀0��̬0̶̂/��̵0̂��0��̆0̺̩-̺̚0��̺.��̨-̖��/��̮0����.̖̘-̸̷0̞̻/��̬/̼̔0��̡0��̨/̄́(̲̂(̩̀/̮̞0��̉/̶̵/̨��'̔��'��̟/̬̎-̤̌-̺̱.����/��̖0̞̻/��̦/����'̬��.��̫0����/̜̖/̖��'̸��/̦̻0��̕/��̫0̸̘0̮̬-����.̠̌0����0̰̮/̊��0��̠/̨̥/��̫/̶̒/��̵0̺̒.̢̠0̮̟/��̼0̮̂.��̷-��̎0̸��0����/̐��0̰̞/̮̯0̼̤-��̽0����0����/̰��0̸��/̦̩/̣̎/̼̝/̬��0��̘/����/����'̮��'����'��̰/����/̣̾/̶̧/����/̄��'̯̈/����'��̱(̐��'̨̲0����'̎��0��̌0����/̼��/��̜/̬̩/��̧/��̥.̌��/̤̊/̶̾/��̲0̮̯/����/��̪-��̯/����-̢��0��̇(̬̺.��̭-̎̐0����/̒��/��̦/��̞/��̪/��̳.̤̊/��̴0����0̙̎/����.��̣/��̪-̮̤/̴̤/��̧0����/̦̽0��̪/̠̄0����/��̴/����/̖��/̊��0̨��/��̂0��̔0̢��/����/��̚0̔̓/����/��̢/̤̥-̤̥/����'��̰/̜��0��̓/̰��0��̒0̧̤/̼̉0��̩-����.̡̜/̤��0��̰-����/��̭0����/����-̰��-̨��/��̵/��̢-��̛/̰̞.̰̦0����-��̗/̲��/̮̐/̊��/��̮-̢̟/̴̨/̢̙0��̛0��̠/̈��/̜��/��̥.��̑/̮��-̤̚/̬��/��̧/̤̄0��̩-̟̄/̀��/̼̕0��̎0����0����.̤̒/̳̒0̣̄-̘̟/̆̚0��̞/����'̖̀0����/̤��/��̖0̈��1̬��2̀��2̲��1��̈3����2̶̩2̲��2̶��2̸̾2̵̒2̢̔2����2��̖2̂��1��̄3̴��2̰̮2̢��1��̙2̆̓2̀��2̲̆1̺̑2̨̙3��̭2̲��2̺̽2��̸2̮��2��̸2̶��1̖��2̒��2̘̒1̢��2����2̠̬2����2̖��2��̣2̮��1��̉1̧̬3����1����1̸̚2̤̝2��̔2̢̺2����1̀��2����0��̺2��̒2��̭1��̜1̲��1��̡2��̺1��̚1̲��2��̶2̛̒1����2̊̄1̀̉2����2̴̘2��̢1��̃2̮��0����1����2̊��2̧̐2��̑2̂̅2��̮2����1����2̜̎2����2��̯2̶��1��̍2����1̦̠2̰̣2����2����2����2̾̋2��̪1����1��̥2̤��1��̲2��̨1̄��1��̘1��̜2��̐1̺̊2��̊1̜̤2̢��1��̦1̲̝2����1����1����1��̋2��̻2̘̄2̧̘2̊̌1̛̆1̧̆2̰̎2��̧2̂��2̨̤1̞̉1̶̈1̤��1��̋2����2����2����1��̠1��̯2̢̒3̀��1̞��2̢̖2����1̴��2��̎2̈��1��̾2����2̄̊1̚��2��̖2����2̸��2̠̞2̢̩2��̽2����2��̡2��̘2̶��1̲��2̔��2̠��2̺̝2̐��2��̃3����2��̊1����1��̟2̤̄2��̟2̶̐2̘��2̴̡2��̢2̚��0��̄2̴̄1��̦2̀̔1��̣2̼��2̨̬2̺̔3̢̦2����1̢̡2̼��2̜��1��̄1̼̞1̜��0����2̞̼1̼̱2̴̂2��̟2̔��1����1̜̾1��̢1��̙2̴̺1����1̴��1����2̌̎2��̾1̊̇2̬̒2��̝2����2̠̆2̔̽1��̝2��̼2̦��2̠̾1̔��1����2��̍3̰��1̨̀1����2��̬2̀̏2̂̅1��̆3̐��0����2̦̉2��̮3��̃2̶̻2̐��2̴��2����2����0��̐2̭̂1��̷2̀��1��̧2����1̜̟2����2̖̑2̭̆2̀́2̥̊1����2��̢2̴̝2����2����2̠̿2��̢2̄��1��̨1̶��1̫̊2̨̄2̖̒2̒��2̤��1��̻2̬��2��̻2̦̆1��̱2̞��0��̃2��̒1��̜1��̝2����2��̪2̔̄2��̐2̧̰2̤̌2��̮2����0̴̴1̳̔2̼̕2����2��̝2̈̄2̶̌2̨̤2̮��2��̗2����2̆��1̖̒2����2̨̎2����2̥̎2����2��̽1����2��̊2��̝2��̜2����2��̂1��̠2̲̞2̚��2̰̊2����2��̥2̖��2̴��1����1����0����2��̔1��̐2̮̔2̨̳2��̮2̸̠2��̿2̮̕2��̝2̒��1̖��2��̘2̵̀2̼��1��́1̲̅2����2��̼2̰̀2��̿2����1̠̰2����2̞��2̶̠2̠̯1̤̟2����2̼��2̚��1̂��2����2����2̸̇2̼��1����1̴��1̞̠2̨̊2̈��1̸��1��̐1����2��̖2����2����1̦̠2̘��2��̐2��̕1��̞2̠��1̠̐2����0̪̊1����2����2����2����1̰��1̾̃1��̥2̌̐2̵̜2��̭1̬̒2̜̊1̖̠1̙̾2̢̓2̊��2̸̒1����1̘̣2̊��1̦̠2��̞2̨��2̌��2����2����2����1����2̴̼1��̃1����2̊̐2����1̰̄3̴��2̬̻2����2��̝2̬̞2��̬2̢̒1̔̽1̪̟2̪��2̶��1��̽2̆̂1����1����2̅̚1̪��2̮̤2̸��2��̡2̐��2̺̎1��̟2̠̤2��̝2̒̚2��̗1��̖2̎��2����2����2����1̚��1��̂1̠̻2̊��1̴��1̶��2̗̊2̜̊2̜��2̎̌1̴��2��̢2��̏2��̊3����2̖��2��̯1��̖1̀��1̆��2̨̄1��̯2��̯2̸̔1��̮1����2̦̠2����2��̰2̖��2̧̔2̜̔2̸̱2̊̇1̞̫2��́1��̻2̮̠2����0̨��1����1̘��1����2̧̌2̢̭2��̻1��̜2̂��2̼��1̢��2̐̅.̜̄/̗̈/̛̮.̺̗.̎̕.��̙/̖̂/̌̋.̘̆/��̚/̸̇/̤̕0̔��/̢̞/��̉.̡̾/��̘/̠̏/��̔.̈̆.̐̈.̞̂/��̕.̲̅.��̊.��̓.̤̊/����/̸̊.��̛/��̖/̞̅.��̠.̈̚.̪̗.̨̅/��̨/̢��.��̈0��̉.̼̅/̺̎.��̝/��̗/̖̒.̢̚.̸̊.��̔/̈̃/��̏/��̃/̆̍.̠̂/��̫/��̅/̆̍.��̃/��̗/��̏-��̅.��̢-̶̰-��̉/��̥/̭̚/̤̦3��̠/��̣/̧̚/��̡/����-��̈.̣̀/̖̠/��̞/��̟/̲̣/��̠/��̠/̠̤/̢̪/��̕/̧̠3̛̒0̰̪-̎��/��̂/��̠/��̩/��̚0̧̀/̢̚/��̡/��̞/�lon��̥��
+����
+��̯̅̇	̝̐̯̽	́̇	̧��
+̦̍
+����
+����̳��
+����	����
+̑������
+����	��̅����	̷̊����
+̳̋��̩
+̢̻̱��
+����
+̟��
+��̲	��́̃̄	́̑����
+����
+̿̊
+����	̇̉
+��̢��̦��̶
+��̡
+̫̉̻��
+̫̋	����
+̽��
+��̛̳̂��̕̭̹����
+̻̦
+̷̕̍̎����
+̹̗̛��
+����	̋̚̨̗̣̍	����
+����	̋̎̫��̽��
+̗��	̛��
+����̽��
+̝��̸̩��̃
+����	��̒������̜
+����
+̙̒̭��̣��
+����̙́̷̍̼̿̉��̳̿����	̵��	��̎
+��̩̍����̂̇��̉̔̑̈
+̛��
+����
+̓��	̛��
+́��̙��̽̓
+̗̭	̻����̍̅������	̧��
+����	����
+̛��
+����
+��̾	̇̍̭��
+̏̏����
+����
+̱̿̉��̫̲
+����
+̩̙	̩��
+̅̃	̛̝	��̛̝��
+̣̃̦́̏��	̡̧����	̍��	̀̕��̘
+��̘��̖	̥̘̩̈��̭̥������
+����
+̙��̻��
+����
+̶̃
+̳̿	̏̉	��̠
+̳̝̇��
+����	����̋̇̙��
+����
+��̥
+����
+̗́��̰��̏̧̗
+��̹����	̭��	����	��̾
+̝̄����
+��̵��̲
+����
+��̪
+̽́
+��̫̡̅
+̽̾
+����
+̛̘̩̥��̎����	̢̻̕��	̻̈����	������̮��̚����
+��̖����̫̕	����	��̈̯̪̜̉̕����̋	̛̎����	̕��
+����
+����
+��̃
+̳̌	��̽����	��̐
+��̑
+̛��
+́̊	��̸
+����	����	����
+̡̕����
+����
+����
+����
+̿��
+̿̓	̭̝����
+̉��
+̭̅	��̳��̯
+��̃̛��
+̪̕̏̎��̀	��̒
+̱��
+����
+����
+��̖	��̦̷̱̳����̧
+��̻����
+����
+̋��	��̳	��̖����̯̉̛��
+��̘̽��
+̉��	��̕̺̉̤̋̋��
+̯̆����	̣̖̫̽
+̫��
+̸̃
+��̨
+����
+̇��
+̯����̐
+��̺
+̏��
+��̭
+����	̭̒��̰	̻̺	����̫̍	��̟��̓	̓̆
+����̙̲
+��̌
+��̯̏̇
+��̏
+����	̳̍
+��̺
+����
+����	����	̍��
+̖̏̟̍̉��
+̝̋��̡��̄������̵	����
+����	̡̣	̡��̵��̱̼��̭
+̿��	̩̝
+̗̿��̪
+̗��̵̟����̗��	����
+��̴̣̇̝��̴̇
+����
+��̕����
+��̖
+̤̕	����
+��̿	̇��
+̉��̕��
+̣��́̑��̔��̜����
+̧��
+��̃̩̽����
+̳��	̅̋	̏̍	̻̒	̍��
+��̂
+̍������	̙̫
+̷̍
+����
+̃��
+̹��
+����
+��̚��̤��̰����
+��̝̫̼	����̷̯������̡����̘́̡̘��̢����̡̒������������́��
+̙������
+��̓̱̎����
+��̕��̬̭̍����	��̈̝̿��̐����
+��̌	��̖����	��̍����
+����
+��������	����
+����
+̗��
+̯��
+��̝̱̜̵̧����	̱̎����
+̳��
+��̉������̩̿��
+̞̽��̐��̾
+̭̫����
+������̴
+��̴��������
+̇��	��̙
+����
+̝̱̑��	̭̊̻��̹��
+̍̎̣̓����	��̙
+��̓������̒̦̉
+̧̐̫��
+����
+̧̢��̃̹̾
+����	̹��̯̝
+��̓	��̬	̣��
+��̼
+����
+̱��	����
+��̨����	��̖����	̗��
+̝��
+��́����
+��̳��́̷̑
+̢̋̥̞̅��	̳̎̙̒����
+̣��̿̅	̡̋��̏	��̻����
+̑��
+����
+̘̋
+̙̃����
+����
+̵��
+̉̍	̯̲
+̙̾̳̕
+̍̉
+��̄	��̙	��̞��̽��̅��̬̑́̟́
+����	̝̋
+��̈
+����	��������̤̃	̧̦
+̇��
+��̕
+��̹	̅��
+̓��
+��̽
+����
+̛��
+̫̪	̅��
+̷̽	����
+����̛̳
+����	̝��
+����
+����	����
+̷��
+́��	����
+����	��̪
+��̭
+̡��	̟��	̟̉	̑��
+����
+̟̽
+̩����̯
+̧̨
+��̚	����
+��̼
+��̟
+��̹
+̇��	����
+̓��
+����
+��̐
+̫��	̷̹
+��̉	����	̙��	̻��̏������	����
+̡̒
+̫��	̟̍	��̭
+̑��
+��̾	̮̿
+̞̽	����	̓��
+����
+����
+̖̿
+̍��	̩̉
+̇��	����
+��̼
+̛̯
+��̅
+̟��
+��̛
+̥́
+��̒	̩̽
+̅������
+����
+̋��̧̪
+̘̇
+��̷
+̴̻	̸̟	����
+��̫
+��̹
+̵̳	̫��	����	̰̕
+��̟
+̪̓
+̱̩
+̻��
+̸̏
+����	́̅	��̮
+����
+����
+̣��
+��̬
+̍��
+̛��	̧̡
+̋��	̝��	����
+̩��
+��̎	����	��̦
+̱̫
+̴̏
+̛̱
+̩̟
+��̟̹̇
+������̟	����
+��̟	̞́
+̵̹
+̫̼
+̝��
+��̛
+����	��̺
+̏��	��̬
+̹̞
+����	��̡
+̟��	̢̫
+��̡
+̤̕
+̡̧
+̇��
+��̽
+̇��
+̫̪
+̧��
+̙̌
+̻��
+̝̽
+��̢
+��̕
+̝̊
+̕������
+��̚	̃��	̹̽
+����
+̧��
+��̉
+��̝
+̥̃	̥��̗̎
+̏̎
+��̽
+̃��
+̡��
+��̹
+��̕
+����
+��̿
+̧��
+̉��	��̼	��̤
+̻��	��̤
+��̿
+��̜
+̽̕
+����
+����
+̿̾
+��̄
+̑��	̫̽
+̯̕
+̧��	̥̬
+̯̫
+̷̃
+̶̓
+̽̾
+��̽
+̑̽
+̷̧
+̏��
+����	̑̽
+��̠
+����
+̩̾
+����
+��̌	̠̓
+̵̏
+̥̆
+̗̃
+̝��
+��̞
+̛��
+̑��	��������	̝̺	̭̏
+̟̦	��̘��̬
+����̕����̕
+����
+̝��
+����
+̫̍
+��̽
+̳̺	����	��̪
+��̠
+̩̊
+����̨̥
+̵��
+����
+����
+����
+̫��
+̟́
+̛��	����
+̋̚	��̼	����
+̡̖
+̗��
+̍��
+̫̜
+����
+��̿��̓
+̝̑
+��̍
+��̈
+̸̓
+̿̓
+̱̽	̧��
+̳̝
+��̠
+��̭
+̩̬
+̋��
+̵��
+̡��
+̵��
+̕��	̬̓
+̥��	��̥
+��̺
+��̺
+̟��	̛̉̢̻
+̳̋
+��̡
+����
+����
+��̧
+��̿
+̣̐
+����
+̭��
+̭��̝̞
+��̼
+��̺
+̵̓
+̙̩
+̙��	̛��	́̾
+̫̒
+����
+̅��
+��̥
+̯̻
+̻��
+����
+̉̔	��̨
+��̃
+̧����̧̱̖
+��̠
+����
+��̿
+̳̰
+����
+̛̚	����
+��̷	̛��	̅������
+̴̋
+��̚
+��̷
+��̗
+̧̀
+��̶
+��̔	����
+����
+��̴
+��̀	̼̅
+����	̹��
+̱̻
+̗��
+̙̣
+��̚
+̗��
+��̻
+̅��
+̫��
+��̏	̷̸
+��̺
+��̵
+��̢
+̿��
+������̱
+̙̱
+̑̽
+̅��
+̙̰
+��̔	́̽
+̉��
+��̼
+��̯
+��̣
+��̎	̅��
+̓��	��̂	����	��̡
+̯̖
+̭̋
+̯̚
+����	����̡��
+��̾
+́��
+��̿
+̡̔
+̕��	����	��̪
+����	����
+��̻
+��̴
+��̝
+̡̒
+̹̘
+̭̿
+̫��	����	����
+̳̚
+����	̳̭
+̠̋̤̍
+̸̛
+̥̮	̑̽
+��̽
+����̝��̛̑
+̷̽
+̋��
+��̹
+��̐
+��̺	̧��
+̭��
+��̤	����
+��̞
+̽��
+����
+��̡
+̧̨
+̵��	��̶
+��̺
+����
+����	̸̑
+̢̉
+����
+��̪
+����
+̳̻
+̹̥
+̙��
+��̯
+̡̈
+̻̃
+��̱	̶̗
+̅��
+̷��	����
+��̽
+����
+̻̣
+��̣
+̗��
+̧́
+����
+̥��
+̱��
+̱̪
+̗��
+̇��
+̱̳
+��̥
+̡��
+��̿
+��̘
+����	����	̯̺
+̿̈
+��̏	����
+��̳
+̉��
+��̿����
+��̖	��̬
+��̚	̷̧
+����
+��̻
+��̮
+��̤
+����
+̛̠
+����	̡̟
+��̅��̷"��̫"̭̾����̣̪��̈!̅��"̹̦��̤!��̨!����!̅̀&��̗"��̯!̩̦̇̾"̗́!̱̔"��̕��̃����̯̄#��̓��́��̲̣̝̅̕!̽̒"̧����̃!̳̍!����̻������̓��̣��"��̊!̳̾"��̇&��̛����"����̓̇!̒̕!��̦������̧̿̃#̿̆#��̙"̍��"��̚��̃!��̡!̭��"��̯����"��̜!̑��̙̒̣��	��̘	��̄��̔̗̑̕��
+��̔̠̿��̔̽̒̳��
+��̪̱̓��̘̝̿��̖��̓��̔��̔̥̖̳̓��̢����	��̖��̣	��̼̵̀��̓̥̍̓��
+̗̏̳̘̖̉��̟�pop������̾��@̊	��̨Z̩"̚9̳̏ ��,���� ̯-̬.̃	 ��}��	��(��W̐N̻������T̥ ��S̥��"̵5̼����+��̾̚u��̕��$̱̝v��̢ ̊W��"��������c̥U̞6̮��̛̖��̵��̄,̿��
+̺3�� ��̐́����̯/��&̩I��"̑&̹̴������
+���� ̶��̤%��̓��Q̮-����̼̑W̽Ȃ̨̇W����̼ ��W��R��<��������D��[��̯��*̍̑��.��̵"������ṋ(��
+̗̓̶̊��̠^̧̫̬.��*��̱8�� ��-��̈̤G̢(��̧��̆��D��̾��#̠̦̕< ̱t����̫l��̐/��̸̥��
+̎��̬ ��̮����̵��"̶V̋!����̇́!̛��̷̘̐̸%��̟̮z̏	��������̆+̼̆̛'̦̄̧������ ̹c̉
+��.������̇̥ğ	̷��̎��,��
+̸̑��̪��-̳W̔:̚:��̡F���� ̐I��̯ ̻����"��,̶d̺!��̶̌��	��	��̆́̭*��B��̯��̃̋��̓̿����̯.��̽��8̨F̃̷������̇̕̛��̿̜-����̰	̯K��_̄̊̗b����L ̫��������G��'̷̅̀̊̌̪����̟̣̀����̪��̟��̣̿��̅��̝1̑�� �� ��S����̤ ̻��̳H��̺��̻
+ ����.̟̎����8 ��$̵��3̖\����̥̹����I����̴̢��̟��̴��̢̆ĪI��̹̔̎C̋A����:̛̯̰M��̥̉̎&����.̗o��+��D̒̨̚��������	��̑��=̔��
+̘>̍R����̄̼��̯F����%��'����̅��;̃��̜̚̝O��̠̆Ṙ	��Q��̌̹̒̟̎̀)̯̥̡��̶̵̹��U̫@��s̚y��̓��̝����̝(̷>̖��������̔o̗��2̞��̶)��
+����}̆$����#��-��"��A��̐	��	̕
+����B��E����̠̢́̛̤��̏��c��=����̐ ��]����̗_̳��"������̉'̠̧̮��#̲̇$��@��̚0��̇������ ��.̨̥̩̎8��
+��̚̆&̻̪��
+̫̘)����  ̓̨̸	̊>��
+̙:̥Z��@̛X��̉��)̂0��-��h̺8��̅��̂��̖������̎̧̚K ��̓_ ̃����K̸{��&̫̞̽̸"̜'̈$��Ḡ̣����{  ��ô̥��3����j  ����̨��F ̤+̥"̭	�� ��̄̇s̒̀̔��̥��& ��.̸(̛̩̐9̘J̡��- ̈'̲������.̄��/��!̬̗��̴)̴̚̔{����#��̦��'̢ ��6��;��p̧H̲̮��̱#��*̀��̡̜��̷ ��B��D̘ ��$��$��̊C����	��1̧^̺&��A��>��	�� ̯4 ̔8̼A ��>��=̴��̧,��
+������Û����̴[��O̰̪7��̸̔��+��C��2��*̚��̄̂̆̨*��w������J̓��=̬̿��4��̥[��m̭̐��̾��̸ ̉+��0����Z̥K̤#̲̱2��<��	̭  ��1̤��̘&̮̆��%����
+̹J̟D��-��w������̭'��%��Y̨̴[̷5��N��>̦#����̐'̶̏����̔"́7̊+ ��5̈̸'��0����2��a ̈ ́?̶̉b̓̔̜1 ��̚�� ̻������̶̠#��
+��,����4̝$̉'̔̐��&̷��$��̾��0 ��[��0��,��7��)��*��/̉'̚'�� ̥̈4̼̊��@ ̾8�� ��+��d��X�� ̼��:̒̚̚��O��̨��a̺:̱=��)̂<̣��!��!̺��"��)��P��"��(��"��M̦��̅5̸	̤/̜S��F̙)̼̿E��̜̒K̷Ṛ��)̻̦3��$̡��̵Y̓K̾ ̝��̭��#̳N̡/����}��̌̡K�� ��̹̰U��̲��+������̛7̽=��̆̤S̝̼]̜̽̏Ḧ̹̾��4̛U��̫��̼G��̷&̻$̭̤)̫
+̒/̜*��s̲&��K̎������̯>��!��K̬̫1��U ̣́��# ̈��̄Ď̾=�� ������̨̒̅9��̺������̃̃ ��̎̭̡̒̀̝
+́Y��h̎
+��̳��.̮0̂̆̜?��̗̆��Ṽ(��̽��̉�� ̫ ̰m̶̅������̈̼  ̈%��\̂A ̖#��+��1��̳9̿��̧o̵̵����E��#̰	������X��,��O��,̮5��̂��̹=̻'̦̀,̍̔̬��̰̩��,��:��̳�� ����(̝̉@��+��̙)̥��̍̕��&����*��̀��,̪̠��{̰m��_��̹Z̻B̅Ȑ4����̌3̶)��(̏6̥̚��% ̧D̋��Z̒$̤q̐p̲̿̕5̳��4̒.��N̪"��'��U̪'�� ̨̣L ��4��̚%̥B̦]̸��v̟ ̝��̵
+̦>��*̥]̩#̦��̟̤"̜̌̊��H��̫'̼̆����&̹̰����&̭̿��̽����	��=����́̆������(̀̿̾́<̭/������������̗����/̠��$����p̬3̿��	��	����̳&̋̝
+̽̼́��̑����6��̍^����̃̾̆��̨F��2��n̺K̔̅����̄m����̜̑I̠?��B̭��̳̬*̨��1̐*̐m ̝̝	��̽̓��c��̮��̡̈��̬̺K��8�tz�n̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̖̺̖̺̺̺̺̖̺̺̺̺̺̖̺̺̺̖̺̺̺̺̺̖̺̖̺̺̺̺̺̺̖̖̺̺̖̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̺̺̺̖̺̺̖̺̺̺̺̺̺̺̺̺̖̖̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̖̺̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̖̺̺̺̺̖̖̺̺̺̺̺̺̺̺̖̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̖̖̺̺̺̺̺̖̺̖̖̖̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̖̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̑̺̺̺̺̺̺̺̺̺̺̺̑̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺̺�dem����Z@̦����,N��̢��̄d̦̼��b��̊̨̎̶4t̞.̶��̆̒̀��̨R̐n̮̢��6t\̌̊P6J4 ̢��B̊̌̜(̖̊(��̲��z̞��̌��̼����̒̊̄̴̞̐̢��̈����
+b��,̼@̸̚̄����������,̠̤����^>N̤��2T̰̴��̸	��̌̼��@��.̠��	Z��̞f$��0̐$̸≯��̘̠��l��̘̔̊B\R̼��R"̚̼̠��$��h����r����T,̾B(`̸��̜Hdh`̼����\jZ����@��^(��V̶̈��̞̺��d̢̈̺F\��̘̼̦��Pr��̤����̜������D̶"������N������N̼ :.����̈̘̴Bdn̺��j̜��̆b��v2̸����̰̂,̚��̂̊̠8̠��̒
+̚��̎0��������F̰������̼����̰��0:��zBĎ̪����̨̆��*̤��̀:̘̘VLrF̌̜̦̼��@̺������,̼(��T̤Zv"*��̤<̂����̰*̠����̺̴������̦̞��
+̪̾��x��@(��������̶̨̦^��X��������B̂̤̦̼̎8̎^̐��*����̰��&̒x2��̖x>̊����̐<��̪̶��̲̜2��̔�� ��̌��̚��00��&̖nt��������R ̬̄,@����B��̰L>~̪̲��b����̲̂0��̒@̖̊̪̾��̪̄̂̐̚F̖̜̆��̈6"̼̒��������̀R ��p̌̆��̰��̘����̚^��̘̒��pR��d��j̊(����
+X̒	��̎̸̚��̄̪̌����$̤̲̼��~.X������̨l������̲̪̈����̪̮̪̜����̠��̼	̨̠̤̤	̤̌̢̤��|����̬��	��0|̢��̸̴��̶̬̆̶̀��̬����̆��p��̐	̼��	̲̠��v@��̎��6����̮��̪̴��̜̎��Fd ��̶t̊̐̊
+|̾��̒z̖����̬��̼̞̠F̞̐����L����	̒̜��r����r n����̮̔��̺����~��̚~̬:��~����v����̦��̮̤̖(��̞
+̒̎D��
+̶��̮��
+��@<��̈����bX̶̒l""~��̜f̴̾̺��>̜��z��̒̘̶̬̾����B̬��̪��̴$t̚����̸V̒��̂̐̮̖̂��~��̄̐��̚̄V����̒����̊̸��̪��p̘��̔��̄̠h`.��
+J��̘̊
+̌��N̠̸��̄
+j̶̢
+̘̤6.̺̖&��44����&VV̶��̚����T̔��
+̘j��̶v����̼̀����̴>̰����D~P̀̚��̲��̞	̄z��̜��̆ ����2̪̄	��̰
+��F��~̪��̼	����hB����
+\̶H��|��̚̂	̞V̔̄����
+̰&D��H̞����̀	��@��̀lT��fF̲.����R`b4̜̸����̈̘��	̘��v̾V̮̀̴N����R��̀̠F̎̨����̶6Z(��̖6������̰6z̀̝̜6p��h4̢.̪��:̆��,������f��J̸^*:������̂̤��$<L̲̮`̄��̶̦,p|.̎̄̄̸P��h̒��2��̮��l �toks�7�zibreira�zambujeira do mar�vimeiro�vila vicosa�(vila verde dos francos villaverde de los�vila velha de rodao�vila real de santo antonio�vila nova de milfontes�vila nova da barquinha�vila franca de xira�vila flor�&vila do bispo вила ду бишпу�vila de rei�vila cha de ourique�vila baleira de porto santo�vieira de leiria�vidigueira�vidais�viana do alentejo�vialonga�vestiaria�ventosa�vendas novas�venda do pinheiro�vale do paraiso�vale de santarem�vale de figueira�vale da amoreira�valado de frades�urra�unhos�ulmeiro�turquel�tunes�trigaches�tramagal�trafaria�ztorres vedras торреш تورس ودراس lapangan terbang santa cruz торриш ведраш 托雷斯韋德拉什�torres novas�%tomar томар تومار 托馬爾�terrugem�telheiro�7tavira municipality тавира تاويرا 塔維拉�soutocico�souto da carpalhosa�sobreda�sobralinho�sobral de monte agraco�*sintra синтра سينترا 辛特拉�Asines municipality ساينس، پرتغال синиш 锡尼什�silves силвеш�silveira�sesimbra сесимбра�?setubal ستوبال сетубал سيتوبال 塞图巴尔�sete rios�sismaria�serta�serra do bouro�serra de el rei�serpa серпа�senhora da luz�senhora da graca dos padroes�seixal�seixal�sarilhos pequenos�sardoal�sao vicente do paul�=sao vicente сан висенте висенти 聖維森特�sao teotonio�sao roque�sao pedro da cadeira�sao miguel de rio torto�sao matias�sao martinho do porto�sao martinho�sao marcos da serra�sao luis�sao juliao do tojal�sao juliao�sao jorge�sao jorge�sao joao dos montes�sao joao da talha�sao joao das lampas�sao goncalo�sao domingos de rana�sao brissos�Ysao bras de alportel сан браш ди алпортел 聖布拉什迪阿爾波特爾�sao bartolomeu de messines�sao bartolomeu�santo da serra antonio�santo antonio da charneca�santo antonio�santo antao do tojal�santo andre�santo andre setubal�santiago do cacem�santa vitoria�9santarem сантарен سانتارين سانتارم�santana сантана�santa maria maior�santa margarida da coutada�santa luzia�santa luzia�santa iria da azoia�Vsanta cruz سانتا كروز، ماديرا санта круш 聖克魯斯 madeira�santa clara de louredo�santa catarina da serra�santa barbara de nexe�samouco�samora correia�salvaterra de magos�salvada�salir de matos�sagres сагреш�8sacavem شقبان ساكاوم сакавен 萨卡文�rosairinho�rio maior�rio de mouro�ribeira brava�riachos�reixida�<reguengos de monsaraz регенгош де монсараж�reguengo do fetal�reguengo�redondo�ramada�quinta do anjo�quinta de santo antonio�Fqueluz келуш 克盧什 كويلوز كيوئلز، پرتغال�quelfes�queijas�quarteira�proenca nova�prazeres празереш�0praia do ribatejo прая ду рибатежу�pragal�povoa meadas�povoa de santo adriao�7povoa de santa iria повуа де санта ирия�porto salvo�!porto moniz порту мониш�porto de mos�porto de mos�porto da cruz�porto covo порту кову�porto carro�portimao портиман�portelٙportalegre порталегре بورتاليغري بورتاليجري پرتالگره پورتاليگرے پورتاليگري порталегри�porches�pontinha�pontevel�ponte de sor�ponta do sol�)ponta do pargo понта ду паргу�pombal помбал�poceirao�pinheiro grande�pinhal novo�piedade�pero pinheiro�pereiro da palhacana�pera�peniche�penedo gordo�pego�pedrogao grande�pedrogao� paul do mar паул ду мар�pataias�parede�parchal паршал�palmela�paialvo�paderne�paco de arcos�ourique�ourem�ota�olival basto�olival�Colivais santa maria dos санта мария дуз оливаиш�olhos de agua�olho marinho�olhao�olhalvo�oleiros�ulgueira�oeiras�odivelas اوديولاس�odemira� obidos обидуш 奧比杜什�!nossa senhora do monte монте�nisa�neves�nazare назаре 納扎雷�nadrupe�nadadouro�mourao�moura мора 莫拉�moscavide portela�mora�montijo монтихо�monte redondo�monte real�montemor novo�monte gordo�monte estoril�montargil�montalvo�montalvinho�monsanto монсанто�monforte�monchique�moncarapacho�mombeja�moleanos�moita dos ferreiros�moita�moinhos�moinhos�mira aire�minde�minas de sao domingos�milharado�milagres�mexilhoeira grande�0mertola مارتلة мертола 梅爾圖拉�mem martins�meia via�meca�mata�massama�marvila�marvao марван�martinchel�marmelete мармелете�marinhais�marinha grande�manta rota�malveira�mafra�madalena do mar�madalena�machico�maceirinha�maceira�macao�luz�lumiar лумиар�)lugar de baixo лугар де баишу�lourinha�lourical�loures�loureira�loule лола�hlisbon lisboa lissabon لشبونة ليسبون lisbonne lisbona лиссабон lizbon لىسابون�linho�linda velha�+leiria леирия لييريا ليريا�lavradio�laranjeiro�laranjeiro�lamarosa�!lagos distrito de faro лагош�lagoa do furadouro�lagoa�juncal�jardoeira�1idanha nova иданья нова 新伊達尼亞�guia�&grandola грандола 格蘭杜拉�golpilheira�golega�gaviao�gaeiras�gafete�fuzeta�Ifunchal фуншал funshal فونچال فونشال 丰沙尔 فنچل�fronteira�foz do arelho�fortios�fontes�fontanelas�fontainhas�figueiro dos vinhos�ferrel�ferreiras�ferreira do zezere�Tferreira do alentejo ферреира ду алентежу 費雷拉杜阿連特茹�ferragudo�fazendas de almeirim�5fatima фатима فاتيما فاطمة 花地瑪�faro do alentejo�faro фару فارو�faniqueira�fanhoes�famoes�famalicao�famalicao�falagueira�+faja da ovelha фажан да овелья�faial�evora monte�evora�7evora эвора إيفورا ايووارا اووا�estremoz ештремож�estreito de camara lobos�8estreito da calheta эштреиту да кальета�6estoril эшторил إستوريل اشتوريل�estombar�estoi�ermidas�ericeira�entroncamento�elvas�damaia�5curral das freiras куррал даш фреираш�cuba�cruz da legua�cova da moura�costa de caparica�corujeira de dentro�coruche�cortes�corroios�corredoura�constancia�conceicao�comporta�comenda�colmeias�colares�coimbrao�cobre�chelas�charneca�#charneca de caparica шарнека�chainca�cercal�cela�caxias�cavalinhos�1castro verde municipality каштру верди�castro marim�,castelo de vide каштелу де виде�qcastelo branco каштелу бранку كاستيلو برانكو كاسٹيلو كاستلو кастелу�castanheira do ribatejo�castanheira de pera�#cascais кашкаиш 卡斯凯什�carvoeiro карвоеиро�carvoeiro карвоеиро�carvoeira�carvide�cartaxo�carreira�carregado�carnide�carnaxide карнашиде�carcavelos�caranguejeira�caparica�cano�canico�canical канисал�canhas�canecas�campo maior�campolide камполиде�campo grande�campelos�campanario�camarate камарате�}camara de lobos камара де лобос كامارا دي لوبوس دلوبوس ди лобуш 卡馬拉 德洛布什�camacha�camacha камаша�calvaria de cima� calheta кальета 卡列塔�caldelas�Mcaldas da rainha كالداس داراينيا калдаш да раинья�cadaval�cadafais�cacilhas�cacem�cabo ruivo�cabeca gorda�cabanas de torres�buraca�bucelas�brancas de cima�borba борба�bombarral�boliqueime�bobadela�boavista dos pinheiros�boa vista�boaventura�beringel�bensafrim�benedita�benavente�bemfica�benfica�#belem tour de torre tower 贝伦塔�belas�beja беха بيجا�beato antonio�#batalha баталья 巴塔利亞�barreiros�barreiro барреиру�barrancos�barcarena�1barao de sao joao баран де сан жуан�bairro do alto da boavista�bairro da madre de deus�bairro�azueira�azoia�azoia�azinhaga�azinhaga�azenhas do mar�&azambuja азамбужа 阿贊布雅�avis�avelar�aveiras de cima�atouguia da baleia�atalaia�arruda dos vinhos�arronches�arrimal�arrentela аррентела�arranho�arraiolos�armacao de pera�areeiro�4arco da calheta арку да кальета madeira�apelacao�ansiao�amora�amor�amiaes de baixo�amadora амадора�alvorninha�alvor�alvito�alvide�alvaiazere�altura�alter do chao�alqueidao da serra�alpiarca�almograve алмограве�almodovar�almeirim�almargem�almancil алмансил�almada алмада�aljustrel�aljubarrota�aljezur�alhos vedros�alhandra�algueirao�alguber�algoz�alges�alfornelos�alferrarede�alfeizerao�alfama�alenquer�alegrete�aldeia nova�aldeia de paio pires�alcoutim�alcoitao�alcoentre�alcochete�Oalcobaca алкобаса ألكوباكا آلكوباسا 阿爾科巴薩�alcantarilha�alcantara�alcanhoes�:alcanena الكانينا алканена 阿尔卡内纳�alcanede�alcains�Balcacer do sal الكاسر دو سال алкасер ду сал� alcabideche алкабидеше�alburitel�/albufeira آلبوفيرا албуфеира�alandroal�alagoa�ajuda�agua de pena�dos francos�dos cunhados�abrigada�Dabrantes абрантиш 阿布兰特什 آبرانتس abrantish�vouzela�vizela визела�vizela визела�3viseu визеу فيسيو ويسيو ويزئو�#vinhais виньяиш 维尼艾什�vimioso�vilela�vila verde�vila seca�vilarinho�Nvila real вила реал ويلا رئال 雷阿爾城 فيلا ريال�vilar do paraiso�vilar de figos�vilar de andorinho�vilar�vila praia de ancora�vila pouca de aguiar�vila nova da telha�vila nova de paiva�1vila nova de gaia вила нова де гаия�vila nova de foz coa�vila nova de famalicao�vila nova de ceira�vila nova da telha�vila nova de cerveira�vila mea�vila frescainha�Rvila do conde вила ду конде ويلا دو كنده конди 孔迪镇�vila da lixa�vila cova�vila cova�vila cha�vilaca�vieira do minho�vide�vidago�viana do castelo виана ду каштелу فيانا دو كاستيلو ويانا ڈو كاسٹيلو كاستلو ډو�vermoim�varzea�valpacos�valongo валонгу�valongo�vales do rio�valenca�valega�vale de cambra�valbom�valadares�valadares�vairao�vagos�urgeses�unhais velho�trofa�trevoes�treixedo�travanca�trancoso�torre de moncorvo�-tondela тондела توندلا 通德拉�tocha�terras de bouro�teloes�teixoso�tebosa�tavarede�tarouca�tadim�tabuaco�tabua�souto�'soure municipality perbandaran сори�sol posto�sobreposta�sobreira�sobrado�cinfaes�silvalde�silva escura�sever do vouga�serzedo�serzedo�serzedelo�seroa�sernancelhe�sermonde�sequeira�senhora do porto�senhora da hora�sendim�semelhe�selho�seixezelo�seia�satao�sao tiago de custoias�sao roque�coronado�sao romao�sao pedro do sul�sao pedro de alva�sao pedro da cova�sao paulo de frades�sao miguel do couto�sao martinho do bispo�;sao mamede de infesta сан мамед де инфешта�sao joao de ver�sao joao de areias�sao joao da pesqueira�7sao joao da madeira сан жуан да мадеира�sao joao�sao jacinto�sao felix da marinha�santo tirso�santo ovidio�santo izidoro�santo antonio dos olivais�santa ovaia�santa marta de penaguiao�santa maria de avioso�santa cruz do bispo�santa cruz�santa comba dao�santa clara�sangalhos�sanfins�sandim�sande�samil�salreu�Fsabugal سابوگال سبگل بلديہ сабугал 薩布加爾�sabrosa�rubiais рубиаинш�rua�ronfe�:rio tinto ريو تينتو риу тинту 里奧廷托�rio meao�rio mau�rio mau�rio de loba�ribeirao�ribeira de pena�ribeira de frades�riba de ave�resende�rendufe�refojos de basto�recarei�rebordosa�rebordoes�real�ramalde do meio�sardao�quinta do gato�prado�Xpovoa de varzim پووا دوارزيم повуа ди варзин 波瓦 迪瓦爾津�povoa de lanhoso�8porto oporto بورتو پورتو порту پورٹو�&ponte de lima понте де лима�<ponte da barca понти да барка 蓬蒂達巴爾卡�ponte�poiares�pinhel�pinheiro manso�pinhao�Hpeso da regua municipality پسو دا رگوا пезу да регуа�perozinho�perelhal�pereiro�perafita�penela�penedono�penamacor�)penafiel пенафиел 佩納菲耶爾�penacova�pedroucos�pedroso�pedras rubras�paredes de coura�paredes�pardilho�&paranhos параньюш 帕拉纽什�paradela�parada de gonta�sao jorge da beira�pampilhosa�pampilhosa da serra�palmeira�palhaca�pacos de ferreira�pacos de brandao�pacos�ovar овар�oliveirinha�oliveira do mondego�oliveira do hospital اوليويرا دو هاسپيتال оливеира ду ошпитал 奧利韋拉杜奧什皮塔爾�oliveira do douro�oliveira do bairro�oliveira de frades�8oliveira de azemeis оливеира ди аземеиш�oliveira�olival�oia�nogueira da regedoura�nogueira�noeda�nine�nevogilde�nelas�neiral�negrelos�negreiros�nariz�murtosa�murca�mozelos�mosteiro�mortagua�moreira de conegos�moreira�moreira�:montemor velho монтемор велью 舊蒙特莫爾�montalegre�monsanto монсанту�mondim de basto�mondim da beira�moncao�moimenta da beira�mogadouro�mire de tibaes�mirandela мирандела�Ymiranda do douro del duero ميراندا دودوئورو миранда ду дору�miranda do corvo�miramar�mira�mindelo�milheiros de poiares�milheiros�mesquitela�mesao frio�merelim�melres�meinedo�meda�mealhada�meadela�?matosinhos municipality ماتوسينوس матозиньюш�massarelos�mariz�marinhas�margaride�marco de canavezes canaveses�marco da oliveirinha�manteigas мантеигас�@mangualde мангуалде مانگولاد мангуалди�maia маия�madalena�madalena�macieira de rates�macieira de cambra�macieira da maia�macedo de cavaleiros�lustosa�luso лусу�lousada�lousa�lourosa�lorvao�loriga�*lordelo do ouro лорделу ду ору�lordelo�lordelo�lobao�lever�leca do bailio�leca da palmeira�lavra�lavos�lapa do lobo�lamelas�lamego�lamas�lamas�lamas�lalim�lagoaca�lago�jovim�joane�ilhavo�gulpilhares�guisande�gueifaes�guimaraes гимараинш�guifoes�gueral�Cguarda гуарда غوردا گوارڈا گوارد گوارډا�gualtar�grijo�granja�gondomar гондомар�gondizalves�gois�godim�godim�goaes�gemunde�gandra�gandra гандра�galegos�gafanha da nazare�gafanha da encarnacao�fundao�frossos�friumes�freixo de numao�Mfreixo de espada cinta municipality фреишу ди эшпада синта�freamunde фреамунде�frazao�francos�fradelos�foz do sousa�foz do douro�fornos de algodres�fornelos�fontelo�figueiro�Zfigueira de castelo rodrigo municipality фигеира ди каштелу родригу�gfigueira da foz municipality фигеира да фош فيگوئرا دافوش 菲蓋拉 達福什�fiaes�ferreiros�ferreiros�ferreira�felgueiras�feira santa maria da�favaios�faria�apulia fao�fanzeres�famalicao�falcao�fafe фафе�estela�;estarreja استارژا эштаррежа 埃斯塔雷雅�esposende�esporoes�espinho�espinho эшпинью�espargo�esmoriz�esgueira�ervedosa do douro�ermesinde эрмезинде�eixo�eirol�eiras�darque�custoias�cunha�cucujaes�cruz�cristelo�crestuma�covilha ковильян�corujeira�cortegaca�contumil�condeixa nova�Ccoimbra коимбра 科英布拉 كويمبرا كوئمبرا�chaves�chavao�celorico de basto�celorico da beira�castro daire�castelo viegas�casteloes de cepeda�castelo de paiva�carvalhosa�carregal do sal�carrazeda de anciaes�carapinheira�cantanhede�canidelo�canelas�candoso�canas de senhorim�campo de besteiros�campo�campo�campinas�(campanha кампаньян 坎帕尼扬�calendario�caldelas�caldas de vizela�taipas�cacia�Tcabeceiras de basto кабесеираш ди башту 卡貝塞拉什德巴什圖�cabanas de viriato�buarcos�brito�britiande�branca�\braganca браганца bragance براغانسا braganza براگانسا брагань�&braga براگا брага براغا�bougado�boticas�bonjoia�bomfim�belver�belmonte�belazaima do chao�bela vista�beiriz de baixo�beduido�barrosas�barroca grande�barro�barqueiros�barco�Fbarcelos بارسلوس بارسيلوس барселуш 巴塞卢什�baltar�balazar�bairro silva braga�bairro novo�bairro do loreto�baiao�baguim do monte�azevedo�azenha�avo�avintes�aves�aver mar�aveleda�8aveiro авеиру أفيرو اويرو آويرو�avanca�assafarge�arvore�arrifana�arouca�aroes�armamar�argoncilhe�argivai�#arganil арганил 阿加尼爾�areosa�areosa�arcozelo�arcos de valdevez�arcos�arcos�arcos�arazede�aradas�apulia�antanhol�anta�angeiras�anca�"anadia آناديا анадия�amorim�ameal�amares�amarante�alvito�alto da maia�alpendurada�alijo алижо�alhadas�alfena� alfarelos альфарелошь�alfandega da fe�aldoar�aldeia de joanes�albergaria velha�7aguiar da beira municipality агиар да беира�?agueda municipality آگوئدا ageda агеда 阿格達�agucadoura�aguas santas�agua longa�aguada de cima�afurada de baixo sao pedro da�adaufe�abraveses�aboim da nobrega�vila franca do campo�velas велаш 韋拉斯�urzelina�$sete cidades сете сидадеш�nordeste�sao vicente�sao sebastiao�/sao roque do pico сан роке ду пику�sao roque�sao mateus�sao bartolomeu�santo antao�\santa cruz das flores санта круш даш флориш 聖克魯什達什弗洛里什�_santa cruz da graciosa санта круш да грасиоза 聖克魯什達格拉西奧薩�santa barbara�rosto de cao�rosais�ribeirinha�ribeira seca�ribeira seca�ribeira seca�ribeira quente�ribeira grande�^ribeira grande ريبيرا گرانده рибеира гранди 大里貝拉 غراندي�ribeira das tainhas�relva�rabo de peixe�praia da vitoria�-praia praya da graciosa santa cruz sao mateus�povoacao�porto martins�porto judeu�ponta garca�mosteiros�achadinha�maia�madalena�lajes�lajes do pico�_lajes das flores lagens флореш лажиш даш флориш 拉日什達什弗洛里什�lagoa лагоа 拉古阿�horta орта 奧爾塔�furnas фурнаш�fonte bastardo�feteira фетеира�fenais da luz�fenais da ajuda�faja de baixo�cedros�castelo branco� calheta кальета 卡列塔�cais do pico�cabouco�cabo da praia�biscoitos бишкоитуш�bandeiras�arrifes�angustias ангуштиаш�_angra do heroismo آنگرا دو هروئيسمو ангра ду эроишму 英雄港�almagreira�agua de pau�vilamoura виламура�vila nova de cacela�quinta do conde�$campo pequeno lisbon portugal lisboa�prior velho�valenza валенса valenca�Bbairro alto баирру алту barrio de lisboa 里斯本上城�alfragide�alvalade�graca�odeceixeّponta delgada بونتا ديلغادا понта делгада 蓬塔德爾加達 azores پونتا ڈيلگادا دلگادا ډيلګادا�anjos�prazeres�santa maria de belem�santos velho�sao jorge de arroios�sao mamede сан мамеде�sao paulo�Isao sebastiao da pedreira сан себаштиан да педреира�intendente�costa da caparica de�vila�salir do porto�cabanas de tavira�santo isidoro�azeitao�baixa�parque das nacoes�moitas venda�cidade universitaria�campo de ourique�principe real�restelo�names�7������es�Villaverde de los Francos���de�Vila Real de Santo António�es�Vila Real de Santo António�en�Vila Real de Santo António�it�Vila Real de Santo António�nl�Vila Real de Santo António�pt�Vila Real de Santo António�tr�Vila Real de Santo António������ru�Вила-ду-Бишпу����en�Vila Baleira������������������������ru�Торреш�fa�تورس ودراس�ms�Lapangan Terbang Santa Cruz�zh�托雷斯韋德拉什���ru�Томар�en�Tomar�ar�تومار�de�Tomar�es�Tomar�fa�تومار�fr�Tomar�id�Tomar�it�Tomar�nl�Tomar�ja�トマール�pt�Tomar�tr�Tomar�ur�تومار�zh�托馬爾����de�Tavira�es�Tavira�fr�Tavira�en�Tavira�it�Tavira�nl�Tavira�pt�Tavira�tr�Tavira�ru�Тавира�fa�تاویرا�ja�タヴィラ�zh�塔維拉������ �es�Sintra�en�Sintra�fr�Sintra�de�Sintra�id�Sintra�it�Sintra�ja�シントラ�nl�Sintra�pt�Sintra�ru�Синтра�tr�Sintra�ar�سينترا�fa�سینترا�ko�신트라�ms�Sintra�zh�辛特拉��en�Sines Municipality�fa�ساینس، پرتغال�ja�シーネス�ru�Синиш�zh�锡尼什�pt�Sines�es�Sines��de�Silves�es�Silves�en�Silves�it�Silves�nl�Silves�pt�Silves�fr�Silves�tr�Silves�ru�Силвеш���ru�Сесимбра� �de�Setúbal�en�Setúbal�es�Setúbal�fa�ستوبال�fr�Setúbal�id�Setúbal�it�Setúbal�nl�Setúbal�pt�Setúbal�ru�Сетубал�tr�Setúbal�ko�세투발�ja�セトゥーバル�ar�سيتوبال�zh�塞图巴尔�ur�سیتوبال�uz�Setubal�ms�Setubal�bn�সেতুবাল�az�Setubal�ha�Setubal�pa�ਸੇਤੁਬਾਲ�ps�سیتوبال�so�Setubal�sw�Setubal�tg�Сетубал�������ru�Серпа���������ru�Сан-Висенте�zh�聖維森特�de�Sao Vicente�������de�Sao Martinho���������������ru�%Сан-Браш-ди-Алпортел�zh�聖布拉什迪阿爾波特爾����pt�Santo António da Serra������de�Santo André (Setúbal)��� �fr�Santarém�de�Santarém�en�Santarém�es�Santarém�it�Santarém�nl�Santarém�pt�Santarém�ru�Сантарен�tr�Santarém�ar�سانتارين�uz�Santarem�id�Santarem�ms�Santarem�bn�সান্তারেম�ur�سانتارم�az�Santarem�fa�سانتارم�ha�Santarem�ja�サンタレン�pa�ਸੰਤਾਰੇਮ�ps�سانتارم�so�Santarem�sw�Santarem�tg�Сантарен��ru�Сантана�������es�Santa Cruz�de�Santa Cruz�en�Santa Cruz�it�Santa Cruz�nl�Santa Cruz�pt�Santa Cruz�fr�Santa Cruz�fa�"سانتا کروز، مادیرا�ko�산타크루스�ru�Санта-Круш�zh�聖克魯斯����������ru�Сагреш�en�Sagres��ar�شقبان�fa�ساکاوم�ja�サカヴェン�ru�Сакавен�zh�萨卡文�����de�Ribeira Brava�fr�Ribeira Brava�en�Ribeira Brava�it�Ribeira Brava�nl�Ribeira Brava�pt�Ribeira Brava����ru�&Регенгош Де Монсараж��������de�Queluz�en�Queluz�pt�Queluz�ru�Келуш�fr�Queluz�sw�Queluz�ms�Queluz�it�Queluz�es�Queluz�zh�克盧什�ar�كويلوز�ja�ケルシュ�fa�کیوئلز، پرتغال�tr�Queluz�nl�Queluz���de�Queijas����ru�Празереш��ru�Прая-ду-Рибатежу�de�Praia do Ribatejo�es�Praia do Ribatejo�nl�Praia do Ribatejo�tr�Praia do Ribatejo�����ru�#Повуа-де-Санта-Ирия��en�Porto Salvo��es�Porto Moniz�fr�Porto Moniz�de�Porto Moniz�en�Porto Moniz�it�Porto Moniz�pt�Porto Moniz�ru�Порту-Мониш�����ru�Порту-Кову���ru�Портиман�en�Portimão�de�Portimao�� �ru�Порталегре�ar�بورتاليغري�fa�پرتالگره�ur�پورتالیگرے�en�Portalegre�tr�Portalegre�uz�Portalegre�id�Portalegre�ms�Portalegre�es�Portalegre�fr�Portalegre�bn�$পোর্টালেগ্রে�az�Portalegre�de�Portalegre�ha�Portalegre�ja�ポルタレグレ�pa�!ਪੋਰਟਾਲੇਗ੍ਰੇ�ps�پورتالیگری�pt�Portalegre�so�Portalegre�sw�Portalegre�tg�Порталегри������es�Ponta do Sol�fr�Ponta do Sol�de�Ponta do Sol�en�Ponta do Sol�it�Ponta do Sol�nl�Ponta do Sol�pt�Ponta do Sol��ru�Понта-ду-Паргу��ru�Помбал���������de�Peniche�en�Peniche�es�Peniche�fr�Peniche�it�Peniche�nl�Peniche�pt�Peniche�tr�Peniche������ru�Паул-ду-Мар����ru�Паршал��de�Palmela�es�Palmela�en�Palmela�it�Palmela�nl�Palmela�pt�Palmela�tr�Palmela����������es�Santa Maria dos Olivais�fr�Santa Maria dos Olivais�nl�Santa Maria dos Olivais�tr�Santa Maria dos Olivais�ru�+Санта-Мария-дуз-Оливайш��de�Olhos d'Agua���pt�Olhão������es�Odivelas�de�Odivelas�en�Odivelas�fa�اودیولاس�it�Odivelas�nl�Odivelas�pt�Odivelas�tr�Odivelas���ru�Обидуш�en�Óbidos�de�Óbidos�es�Óbidos�fr�Óbidos�ko�오비두스�it�Óbidos�ms�Óbidos�nl�Óbidos�pt�Óbidos�tr�Óbidos�zh�奧比杜什��ru�Монте����de�Nazaré�en�Nazaré�it�Nazaré�nl�Nazaré�pt�Nazaré�es�Nazaré�tr�Nazaré�ja�ナザレ�ru�Назаре�fr�Nazaré�ko�나자레�id�Nazaré�ms�Nazaré�zh�納扎雷�����ru�Мора�zh�莫拉����ru�Монтихо�en�Montijo����������en�Monsanto�ru�Монсанто�����������pt�Mira d’Aire�������ar�مارتلة�ja�メルトラ�ru�Мертола�zh�梅爾圖拉��������ru�Марван���ru�Мармелете����pt�Manta Rota�en�Manta Rota�nl�Manta Rota������es�Machico�de�Machico�en�Machico�fr�Machico�it�Machico�nl�Machico�pt�Machico������ru�Лумиар��ru�Лугар-де-Байшу��de�Lourinhã�en�Lourinhã�it�Lourinhã�nl�Lourinhã�pt�Lourinhã�es�Lourinhã�fr�Lourinha�tr�Lourinhã���es�Loures�de�Loures�en�Loures�it�Loures�nl�Loures�pt�Loures�tr�Loures���ru�Лола� �pt�Lisboa�de�Lissabon�es�Lisboa�en�Lisbon�ar�لشبونة�fa�لیسبون�fr�Lisbonne�id�Lisboa�it�Lisbona�ja�リスボン�ko�리스본�ms�Lisbon�nl�Lissabon�ru�Лиссабон�tg�Лиссабон�tr�Lizbon�ug�لىسابون�az�Lissabon�bn�লিসবন���en�Linda a Velha� �fr�Leiria�de�Leiria�en�Leiria�es�Leiria�id�Leiria�it�Leiria�nl�Leiria�pt�Leiria�ru�Лейрия�tr�Leiria�ar�لييريا�uz�Leiria�ms�Leiria�bn�লেইরিয়া�ur�لیریا�az�Leiria�fa�لیریا�ha�Leiria�ja�レイリア�pa�ਲੇਰਿਆ�ps�لیریا�so�Leiria�sw�Leiria�tg�Лейрия������de�Lagos�ru�Лагош������ru�Иданья-а-Нова�zh�新伊達尼亞���ru�Грандола�zh�格蘭杜拉������� �de�Funchal�en�Funchal�es�Funchal�fr�Funchal�id�Funchal�it�Funchal�nl�Funchal�pt�Funchal�ja�フンシャル�sw�Funchal�ru�Фуншал�uz�Funshal�ko�푼샬�fa�فونچال�ar�فونشال�zh�丰沙尔�tr�Funchal�ms�Funchal�bn�ফানশাল�ur�فنچل�az�Funchal�ha�Funchal�pa�ਫੁੰਚਲ�ps�فنچل�so�Funchal�tg�Фуншал������������ru�&Феррейра-ду-Алентежу�zh�費雷拉杜阿連特茹����de�Fátima�en�Fátima�fr�Fátima�it�Fatima�ja�ファティマ�nl�Fátima�pt�Fátima�ru�Фатима�ko�파티마�fa�فاتیما�ar�فاطمة�zh�花地瑪�� �ru�Фару�es�Faro�en�Faro�ar�فارو�tr�Faro�uz�Faro�id�Faro�ms�Faro�fr�Faro�bn�ফারো�ur�فارو�az�Faro�de�Faro�fa�فارو�ha�Faro�ja�ファロ�pa�ਫਾਰੋ�ps�فارو�pt�Faro�so�Faro�sw�Faro�tg�Фару��������ru�Фажан-да-Овелья���� �en�Evora�ru�Эвора�pt�Évora�ar�إيفورا�tr�Évora�uz�Evora�id�Evora�ms�Evora�es�Évora�fr�Évora�bn�এভোরা�ur�ایووارا�az�Evora�de�Évora�fa�اووا�ha�Evora�ja�エヴォラ�pa�ਈਵੋਰਾ�ps�ایووارا�so�Evora�sw�Evora�tg�Эвора��ru�Ештремож���ru�$Эштрейту-да-Кальета��es�Estoril�en�Estoril�de�Estoril�id�Estoril�ja�エストリル�pt�Estoril�fr�Estoril�nl�Estoril�ru�Эшторил�ar�إستوريل�fa�اشتوریل�ko�이스토릴�it�Estoril�tr�Estoril���������ru�"Куррал-даш-Фрейраш���������������������pt�Charneca de Caparica�ru�Шарнека�������en�Castro Verde Municipality�ru�Каштру-Верди���ru�Каштелу-де-Виде� �ru�Каштелу-Бранку�en�Castelo Branco�ar�كاستيلو برانكو�tr�Castelo Branco�uz�Castelo Branco�id�Castelo Branco�ms�Castelo Branco�es�Castelo Branco�fr�Castelo Branco�bn�7ক্যাস্টেলো ব্রাঙ্কো�ur�کاسٹیلو برانکو�az�Castelo Branco�de�Castelo Branco�fa�کاستلو برانکو�ha�Castelo Branco�ja�カステロ・ブランコ�pa�+ਕੈਸਟੇਲੋ ਬ੍ਰਾਂਕੋ�ps�کاسٹیلو برانکو�pt�Castelo Branco�so�Castelo Branco�sw�Castelo Branco�tg�Кастелу-Бранку����es�Cascais�de�Cascais�en�Cascais�fr�Cascais�it�Cascais�ja�カスカイス�nl�Cascais�pt�Cascais�tr�Cascais�ru�Кашкайш�zh�卡斯凯什��en�Carvoeiro�ru�Карвоейро��ru�Карвоейро��������ru�Карнашиде������de�Canico��ru�Канисал�����ru�Камполиде�����ru�Камарате��de�Câmara de Lobos�es�Câmara de Lobos�en�Câmara de Lobos�fr�Câmara de Lobos�it�Câmara de Lobos�nl�Câmara de Lobos�pt�Câmara de Lobos�ru�Камара-де-Лобос�ar�كامارا دي لوبوس�fa�کامارا دلوبوس�zh�卡馬拉-德洛布什���ru�Камаша���es�Calheta�fr�Calheta�de�Calheta�en�Calheta�it�Calheta�nl�Calheta�pt�Calheta�ru�Кальета�ko�칼례타�zh�卡列塔���fa�کالداس داراینیا�ja�$カルダス・ダ・ライーニャ�ru�Калдаш-да-Раинья������������ru�Борба��de�Bombarral�es�Bombarral�en�Bombarral�it�Bombarral�nl�Bombarral�pt�Bombarral�tr�Bombarral�������������fr�Tour de Belém�es�Torre de Belém�de�Torre de Belém�en�Belém Tower�nl�Torre de Belém�pt�Torre de Belém�zh�贝伦塔�� �en�Beja�ru�Беха�ar�بيجا�tr�Beja�uz�Beja�id�Beja�ms�Beja�es�Beja�fr�Béja�bn�বেজা�ur�بیجا�az�Beja�de�Beja�fa�بیجا�ha�Beja�ja�ベジャ�pa�ਬੇਜਾ�ps�بیجا�pt�Beja�so�Beja�sw�Beja�tg�Беха���de�Batalha�es�Batalha�fr�Batalha�en�Batalha�it�Batalha�nl�Batalha�pt�Batalha�tr�Batalha�ms�Batalha�ja�バターリャ�ru�Баталья�zh�巴塔利亞���de�Barreiro�es�Barreiro�en�Barreiro�it�Barreiro�nl�Barreiro�pt�Barreiro�fr�Barreiro�tr�Barreiro�ru�Баррейру����ru�Баран-де-Сан-Жуан�����������ru�Азамбужа�zh�阿贊布雅����������ru�Аррентела������ru�Арку-да-Кальета�de�Arco da Calheta, Madeira�������de�Amadora�en�Amadora�es�Amadora�it�Amadora�nl�Amadora�pt�Amadora�fr�Amadora�tr�Amadora�ru�Амадора�����������ru�Алмограве�����ru�Алмансил��es�Almada�de�Almada�en�Almada�it�Almada�nl�Almada�pt�Almada�tr�Almada�fr�Almada�ru�Алмада�����������������������ru�Алкобаса�de�Alcobaça�en�Alcobaça�ar�ألكوباكا�es�Alcobaça�fa�آلکوباسا�fr�Alcobaça�it�Alcobaça�nl�Alcobaça�pt�Alcobaça�tr�Alcobaça�zh�阿爾科巴薩�����fa�الکانینا�ru�Алканена�zh�阿尔卡内纳����ar�الكاسر دو سال�ja�アルカセル・ド・サル�ru�Алкасер-ду-Сал��ru�Алкабидеше���de�Albufeira�en�Albufeira�fr�Albufeira�it�Albufeira�nl�Albufeira�pt�Albufeira�fa�آلبوفیرا�tr�Albufeira�es�Albufeira�ru�Албуфейра���������de�Abrantes�fr�Abrantes�en�Abrantes�it�Abrantes�nl�Abrantes�pt�Abrantes�tr�Abrantes�es�Abrantes�ru�Абрантиш�zh�阿布兰特什�ar�آبرانتس�fa�آبرانتس�ja�アブランテス�uz�Abrantish���ru�Визела��ru�Визела� �ru�Визеу�en�Viseu�ar�فيسيو�tr�Viseu�uz�Viseu�id�Viseu�ms�Viseu�es�Viseu�fr�Viseu�bn�ভিসিউ�ur�ویسیو�az�Viseu�de�Viseu�fa�ویزئو�ha�Viseu�ja�ヴィセウ�pa�ਵਿਸਿਊ�ps�ویسیو�pt�Viseu�so�Viseu�sw�Viseu�tg�Визеу��ru�Виньяйш�zh�维尼艾什������ �de�Vila Real�pt�Vila Real�tr�Vila Real�en�Vila Real�es�Vila Real�fr�Vila Real�id�Vila Real�it�Vila Real�nl�Vila Real�ru�Вила-Реал�fa�ویلا رئال�zh�雷阿爾城�ja�ヴィラ・レアル�ar�فيلا ريال�uz�Vila Real�ms�Vila Real�bn�ভিলা রিয়াল�ur�ویلا ریال�az�Vila Real�ha�Vila Real�pa�ਵਿਲਾ ਰੀਅਲ�ps�ویلا ریال�so�Vila Real�sw�Vila Real�tg�Вила-Реал����������es�Vila Nova de Gaia�de�Vila Nova de Gaia�en�Vila Nova de Gaia�fr�Vila Nova de Gaia�it�Vila Nova de Gaia�nl�Vila Nova de Gaia�pt�Vila Nova de Gaia�ru�Вила-Нова-де-Гайя�tr�Vila Nova de Gaia���������de�Vila do Conde�es�Vila do Conde�en�Vila do Conde�fr�Vila do Conde�it�Vila do Conde�nl�Vila do Conde�pt�Vila do Conde�tr�Vila do Conde�ru�Вила-ду-Конде�fa�ویلا دو کنده�zh�孔迪镇��������� �en�Viana do Castelo�ru�Виана-ду-Каштелу�ar�فيانا دو كاستيلو�tr�Viana do Castelo�uz�Viana do Castelo�id�Viana do Castelo�ms�Viana do Castelo�es�Viana do Castelo�fr�Viana do Castelo�bn�5ভিয়ানা দো কাস্টেলো�ur�ویانا ڈو کاسٹیلو�az�Viana do Castelo�de�Viana do Castelo�fa�ویانا دو کاستلو�ha�Viana do Castelo�ja�$ヴィアナ・ドゥ・カステロ�pa�,ਵਿਆਨਾ ਡੂ ਕੈਸਟੇਲੋ�ps�ویانا ډو کاسٹیلو�pt�Viana do Castelo�so�Viana do Castelo�sw�Viana do Castelo�tg�Виана-ду-Каштелу�����de�Valongo�es�Valongo�en�Valongo�fr�Valongo�it�Valongo�nl�Valongo�pt�Valongo�tr�Valongo�ru�Валонгу��������������������ru�Тондела�fa�توندلا�zh�通德拉�������������de�Soure�en�Soure Municipality�it�Soure�nl�Soure�pt�Soure�fr�Soure�tr�Soure�ms�Perbandaran Soure�ru�Сори�es�Soure�������������������pt�Sendim�����������������ru�%Сан-Мамед-де-Инфешта�����ru�#Сан-Жуан-да-Мадейра����������������������fa�سابوگال�ur�سبگل بلدیہ�ru�Сабугал�zh�薩布加爾���ru�Рубиайнш����fa�ریو تینتو�ru�Риу-Тинту�zh�里奧廷托���������������������de�Póvoa de Varzim�en�Póvoa de Varzim�fa�پووا دوارزیم�it�Póvoa de Varzim�nl�Póvoa de Varzim�pt�Póvoa de Varzim�es�Póvoa de Varzim�fr�Póvoa de Varzim�tr�Póvoa de Varzim�ru�Повуа-ди-Варзин�zh�波瓦-迪瓦爾津�� �es�Oporto�en�Porto�de�Porto�fr�Porto�ar�بورتو�fa�پورتو�id�Porto�it�Porto�ja�ポルト�nl�Porto�pt�Porto�ru�Порту�tr�Porto�uz�Porto�ms�Porto�bn�পোর্তো�ur�پورٹو�az�Porto�ha�Porto�pa�ਪੋਰਟੋ�ps�پورٹو�so�Porto�sw�Porto�tg�Порту��ru�Понте де Лима�pt�Ponte de Lima��ru�Понти-да-Барка�zh�蓬蒂達巴爾卡�������pt�Peso da Régua�en�Peso da Régua Municipality�fa�پسو دا رگوا�ru�Пезу-да-Регуа������de�Penela�en�Penela�it�Penela�nl�Penela�pt�Penela�tr�Penela�es�Penela�fr�Penela����de�Penafiel�en�Penafiel�id�Penafiel�it�Penafiel�nl�Penafiel�pt�Penafiel�es�Penafiel�fr�Penafiel�tr�Penafiel�ru�Пенафиел�zh�佩納菲耶爾���������ru�Параньюш�zh�帕拉纽什������de�Pampilhosa da Serra�en�Pampilhosa da Serra�nl�Pampilhosa da Serra�pt�Pampilhosa da Serra�tr�Pampilhosa da Serra�es�Pampilhosa da Serra�fr�Pampilhosa da Serra�it�Pampilhosa da Serra����de�Paços de Ferreira�fr�Paços de Ferreira�en�Paços de Ferreira�it�Paços de Ferreira�nl�Paços de Ferreira�pt�Paços de Ferreira�es�Paços de Ferreira�tr�Paços de Ferreira����ru�Овар����de�Oliveira do Hospital�en�Oliveira do Hospital�it�Oliveira do Hospital�nl�Oliveira do Hospital�pt�Oliveira do Hospital�tr�Oliveira do Hospital�es�Oliveira do Hospital�fr�Oliveira do Hospital�fa�&اولیویرا دو هاسپیتال�ru�$Оливейра-ду-Ошпитал�zh�奧利韋拉杜奧什皮塔爾�����de�Oliveira de Azeméis�es�Oliveira de Azeméis�en�Oliveira de Azeméis�fr�Oliveira de Azeméis�it�Oliveira de Azeméis�nl�Oliveira de Azeméis�pt�Oliveira de Azeméis�ru�$Оливейра-ди-Аземейш�tr�Oliveira de Azeméis�����������������������de�Montemor-o-Velho�en�Montemor-o-Velho�it�Montemor-o-Velho�nl�Montemor-o-Velho�pt�Montemor-o-Velho�es�Montemor-o-Velho�fr�Montemor-o-Velho�tr�Montemor-o-Velho�ru�Монтемор-о-Велью�zh�舊蒙特莫爾���ru�Монсанту����de�Monção�es�Monção�fr�Monção�en�Monção�it�Monção�nl�Monção�pt�Monção�tr�Monção�����ru�Мирандела��pt�Miranda do Douro�es�Miranda del Duero�fa�میراندا دودوئورو�ja�ミランダ・ド・ドウロ�ru�Миранда-ду-Дору��de�Miranda do Corvo�en�Miranda do Corvo�it�Miranda do Corvo�nl�Miranda do Corvo�pt�Miranda do Corvo�tr�Miranda do Corvo�es�Miranda do Corvo���������������pt�Matosinhos�en�Matosinhos Municipality�fa�ماتوسینوس�ru�Матозиньюш������de�Marco de Canaveses�en�Marco de Canaveses�it�Marco de Canaveses�nl�Marco de Canaveses�pt�Marco de Canaveses�es�Marco de Canaveses�fr�Marco de Canaveses�tr�Marco de Canaveses���ru�Мантейгас�en�Manteigas��ru�Мангуалде�fa�مانگولاد��ru�Майя�en�Maia�es�Maia�pt�Maia���������ru�Лусу���de�Lousã�es�Lousã�fr�Lousã�en�Lousã�it�Lousã�nl�Lousã�tr�Lousã�����ru�Лорделу-ду-Ору�������������������������de�Guimarães�es�Guimarães�en�Guimarães�fr�Guimarães�it�Guimarães�nl�Guimarães�pt�Guimarães�ru�Гимарайнш�id�Guimaraes�tr�Guimarães��� �de�Guarda�en�Guarda�es�Guarda�it�Guarda�nl�Guarda�pt�Guarda�ru�Гуарда�fr�Guarda�ja�グアルダ�tr�Guarda�ar�غوردا�uz�Guarda�id�Guarda�ms�Guarda�bn�গুয়ার্দা�ur�گوارڈا�az�Guarda�fa�گوارد�ha�Guarda�pa�ਗੁਆਰਦਾ�ps�گوارډا�so�Guarda�sw�Guarda�tg�Гуарда�����ru�Гондомар���de�Góis�en�Góis�it�Góis�nl�Góis�pt�Góis�tr�Góis�es�Góis�fr�Góis�������ru�Гандра���fr�Gafanha da Nazaré�������en�&Freixo de Espada à Cinta Municipality�ru�,Фрейшу-ди-Эшпада-а-Синта��ru�Фреамунде�����������en�(Figueira de Castelo Rodrigo Municipality�ru�1Фигейра-ди-Каштелу-Родригу��de�Figueira da Foz�fr�Figueira da Foz�en�Figueira da Foz Municipality�it�Figueira da Foz�nl�Figueira da Foz�pt�Figueira da Foz�ru�Фигейра-да-Фош�es�Figueira da Foz�tr�Figueira da Foz�fa�فیگوئرا دافوش�ko�피게이라다포스�zh�菲蓋拉-達福什������de�Felgueiras�es�Felgueiras�fr�Felgueiras�en�Felgueiras�it�Felgueiras�nl�Felgueiras�pt�Felgueiras�tr�Felgueiras��pt�Feira��������ru�Фафе���fa�استارژا�ru�Эштаррежа�zh�埃斯塔雷雅�����de�Espinho�es�Espinho�en�Espinho�fr�Espinho�it�Espinho�nl�Espinho�pt�Espinho�tr�Espinho�ja�エスピーニョ�ru�Эшпинью������ru�Эрмезинде�pt�Ermesinde�es�Ermesinde������������ru�Ковильян�en�Covilha�����de�Condeixa-a-Nova�es�Condeixa-a-Nova�fr�Condeixa-a-Nova�en�Condeixa-a-Nova�it�Condeixa-a-Nova�nl�Condeixa-a-Nova�pt�Condeixa-a-Nova�tr�Condeixa-a-Nova� �es�Coímbra�fr�Coimbra�de�Coimbra�en�Coimbra�id�Coimbra�it�Coimbra�ja�コインブラ�nl�Coimbra�pt�Coimbra�ru�Коимбра�tr�Coimbra�zh�科英布拉�ar�كويمبرا�uz�Coimbra�ms�Coimbra�bn�কোইম্ব্রা�ur�کوئمبرا�az�Coimbra�fa�کویمبرا�ha�Coimbra�pa�ਕੋਇਮਬਰਾ�ps�کویمبرا�so�Coimbra�sw�Coimbra�tg�Коимбра�����������������������ru�Кампаньян�zh�坎帕尼扬�������ru�$Кабесейраш-ди-Башту�zh�卡貝塞拉什德巴什圖������ �ru�Браганца�fr�Bragance�en�Bragança�ar�براغانسا�tr�Bragança�uz�Braganca�id�Braganca�ms�Braganca�es�Braganza�bn�ব্রাগানসা�ur�براگانسا�az�Braganca�de�Braganza�fa�براگانسا�ha�Braganca�ja�ブラガンサ�pa�ਬ੍ਰਾਗਾਂਸਾ�ps�براگانسا�pt�Bragança�so�Braganca�sw�Braganca�tg�Брагань� �fr�Braga�de�Braga�es�Braga�en�Braga�fa�براگا�it�Braga�ja�ブラガ�nl�Braga�pt�Braga�ru�Брага�tr�Braga�ar�براغا�uz�Braga�id�Braga�ms�Braga�bn�ব্রাগা�ur�براگا�az�Braga�ha�Braga�pa�ਬ੍ਰਾਗਾ�ps�براگا�so�Braga�sw�Braga�tg�Брага�����������������ja�バルセロス�fa�بارسلوس�ar�بارسيلوس�ru�Барселуш�zh�巴塞卢什�������de�Baião�es�Baião�fr�Baião�en�Baião�it�Baião�nl�Baião�pt�Baião�tr�Baião��������� �en�Aveiro�de�Aveiro�es�Aveiro�fr�Aveiro�id�Aveiro�it�Aveiro�nl�Aveiro�pt�Aveiro�ru�Авейру�tr�Aveiro�ar�أفيرو�uz�Aveiro�ms�Aveiro�bn�এভেইরো�ur�اویرو�az�Aveiro�fa�آویرو�ha�Aveiro�ja�アヴェイロ�pa�ਅਵੇਇਰੋ�ps�اویرو�so�Aveiro�sw�Aveiro�tg�Авейру�����������ru�Арганил�zh�阿加尼爾�����de�Arcos de Valdevez�fr�Arcos de Valdevez�en�Arcos de Valdevez�it�Arcos de Valdevez�nl�Arcos de Valdevez�pt�Arcos de Valdevez�es�Arcos de Valdevez�tr�Arcos de Valdevez������������fa�آنادیا�ru�Анадия���������en�Alijó�ru�Алижо����ru�Альфарелошь������en�Aguiar da Beira Municipality�ru�Агиар-да-Бейра��pt�Águeda�en�Águeda Municipality�fa�آگوئدا�uz�Ageda�ru�Агеда�zh�阿格達�es�Águeda������pt�São Pedro da Afurada����pt�Aboim da Nóbrega���ko�벨라스�ru�Велаш�zh�韋拉斯���ru�Сете-Сидадеш�����ru�Сан-Роке-ду-Пику������ko�!산타크루스다스플로르스�ru�'Санта-Круш-даш-Флориш�zh�聖克魯什達什弗洛里什��ko�!산타크루스다그라시오자�ru�)Санта-Круш-да-Грасиоза�zh�聖克魯什達格拉西奧薩�����������fa�ریبیرا گرانده�ru�Рибейра-Гранди�zh�大里貝拉�ko�히베이라그란드�en�Ribeira Grande�ar�ريبيرا غراندي�es�Ribeira Grande�fr�Ribeira Grande�����pt�Praia da Vitória��pt�Praia�en�Praya����������en�Lajes��pt�Lajes do Pico��en�Lagens�pt�Lajes das Flores�ru�Флореш�ko�라즈스다스플로르스�zh�拉日什達什弗洛里什��ko�라고아�ru�Лагоа�zh�拉古阿��ru�Орта�ko�오르타�zh�奧爾塔��ru�Фурнаш�ko�푸르나스 화산���ru�Фетейра�������ko�칼례타�ru�Кальета�zh�卡列塔�����ru�Бишкойтуш����ru�Ангуштиаш��de�Angra do Heroísmo�es�Angra do Heroísmo�en�Angra do Heroísmo�it�Angra do Heroísmo�nl�Angra do Heroísmo�pt�Angra do Heroísmo�fa� آنگرا دو هروئیسمو�ja�$アングラ・ド・エロイズモ�ru�Ангра-ду-Эроишму�zh�英雄港��pt�Almagreira���ru�Виламура�pt�Vilamoura����en�Campo Pequeno, Lisbon, Portugal�pt�Campo Pequeno, Lisboa���en�Valenza�ru�Валенса�pt�Valença��de�Bairro Alto�ru�Байрру-Алту�pt�Bairro Alto�ms�Bairro Alto�en�Bairro Alto�it�Bairro Alto�fr�Bairro Alto�es�Barrio Alto de Lisboa�zh�里斯本上城�ja�バイロ・アルト�nl�Bairro Alto����� �ar�بونتا ديلغادا�ja�ポンタ・デルガダ�ko�폰타델가다�ru�Понта-Делгада�zh�蓬塔德爾加達�en�Ponta Delgada�pt�Ponta Delgada�es�Ponta Delgada�fr�Ponta Delgada�de�Ponta Delgada�tr�Ponta Delgada�uz�Ponta Delgada�id�Ponta Delgada�ms�Ponta Delgada�bn�(পোন্তা ডেলগাডা�ur�پونتا ڈیلگادا�az�Ponta Delgada�fa�پونتا دلگادا�ha�Ponta Delgada�pa�%ਪੋਂਤਾ ਡੈਲਗਾਡਾ�ps�پونتا ډیلګادا�so�Ponta Delgada�sw�Ponta Delgada�tg�Понта-Делгада�������ru�Сан-Мамеде���ru�/Сан-Себаштиан-да-Педрейра���pt�Costa de Caparica������������

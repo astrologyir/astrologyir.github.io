@@ -1,0 +1,1 @@
+import"./D2jWG8fd.js";var e=()=>`Moon void-of-course + upcoming aspects`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Time`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

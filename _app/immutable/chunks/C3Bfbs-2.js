@@ -1,0 +1,1 @@
+import"./DCc_fjow.js";var e=()=>`vide de course`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

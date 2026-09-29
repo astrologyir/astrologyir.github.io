@@ -1,0 +1,1 @@
+import"./Dh2GkZcs.js";var e=()=>`শীর্ষ`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`রাশি`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

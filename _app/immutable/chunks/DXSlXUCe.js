@@ -1,0 +1,1 @@
+import"./DLOXsHD-.js";var e=()=>`محاسبه`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./DpdhJdmI.js";var e=()=>`sayyora soati`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};
