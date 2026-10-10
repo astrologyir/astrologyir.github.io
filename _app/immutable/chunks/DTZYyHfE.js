@@ -1,0 +1,1 @@
+import"./DXI5DKno.js";var e=()=>`Oy bo‘shliqda + yaqin jihatlar`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Vaqt`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`cho‘qqi`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

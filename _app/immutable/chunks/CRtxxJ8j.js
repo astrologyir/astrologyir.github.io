@@ -1,0 +1,1 @@
+import"./BFQ5uobj.js";var e=()=>`سپوږمیزه ورځ`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./CBsIxey7.js";var e=()=>`Gregorianisch`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Hidschri`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`Dschalali`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

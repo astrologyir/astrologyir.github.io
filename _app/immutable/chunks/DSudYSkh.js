@@ -1,0 +1,1 @@
+import"./BsGif-uT.js";var e=()=>`جایگاه‌های تقریبی (بسته برون‌خط آماده نیست)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

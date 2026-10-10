@@ -1,0 +1,1 @@
+import"./BSsrAro2.js";var e=()=>`أوقات الصلاة`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

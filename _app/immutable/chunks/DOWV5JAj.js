@@ -1,0 +1,1 @@
+import"./jBt5RMX4.js";var e=()=>`خالی السیر`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

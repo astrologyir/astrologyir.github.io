@@ -1,0 +1,1 @@
+import"./CBsIxey7.js";var e=()=>`Mondtag`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./CJN_y7J7.js";var e=()=>`দৈনিক পঞ্জিকা`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

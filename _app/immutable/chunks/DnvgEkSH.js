@@ -1,0 +1,1 @@
+import"./CJN_y7J7.js";var e=()=>`চন্দ্র বলয়হীন + আসন্ন দৃষ্টি`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`সময়`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`শীর্ষ`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

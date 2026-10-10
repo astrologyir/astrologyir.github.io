@@ -1,0 +1,1 @@
+import"./BFQ5uobj.js";var e=()=>`حساب ناکام شو`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

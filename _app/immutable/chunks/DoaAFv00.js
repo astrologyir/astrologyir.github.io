@@ -1,0 +1,1 @@
+import"./COmEqGI9.js";var e=()=>`Daily astrology ephemeris computed in your browser: planetary positions, the dignity almanac, Moon phases, void-of-course periods, solar eclipses and sky events.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Daily Astrology Ephemeris: Planets, Moon Phases`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

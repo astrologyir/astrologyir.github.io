@@ -1,0 +1,1 @@
+import"./DdLjIzlO.js";var e=()=>`Menghitung di browser Anda…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

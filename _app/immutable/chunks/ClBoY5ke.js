@@ -1,0 +1,1 @@
+import"./COmEqGI9.js";var e=()=>`today`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

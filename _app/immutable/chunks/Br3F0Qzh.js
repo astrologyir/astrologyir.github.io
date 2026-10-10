@@ -1,0 +1,1 @@
+import"./BhwcJpzA.js";var e=()=>`Tarih`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

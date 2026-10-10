@@ -1,0 +1,1 @@
+import"./CtZAZE_c.js";var e=()=>`calcul échoué`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

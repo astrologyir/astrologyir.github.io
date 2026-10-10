@@ -1,0 +1,1 @@
+import"./DsffjfAA.js";var e=()=>`Sinastría`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./DsffjfAA.js";var e=()=>`Efemérides dailyes calculadas en tu navegador: posiciones planetarias, almanaque de dignidades, fases lunares, períodos void-of-course, eclipses y eventos del cielo.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Efemérides diarias: planetas y fases lunares`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

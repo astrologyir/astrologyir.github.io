@@ -1,0 +1,1 @@
+import"./DsffjfAA.js";var e=()=>`hoy`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

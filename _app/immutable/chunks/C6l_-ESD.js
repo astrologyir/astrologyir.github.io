@@ -1,0 +1,1 @@
+import"./92j2z9jf.js";var e=()=>`خلو سیر قمر + اتصالات مقبله`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`زمان`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`مطلع بیت`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

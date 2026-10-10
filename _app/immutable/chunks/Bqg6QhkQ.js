@@ -1,0 +1,1 @@
+import"./BFQ5uobj.js";var e=()=>`د لمانځه وختونه`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};
