@@ -1,0 +1,1 @@
+import"./CtZAZE_c.js";var e=()=>`Aujourd'hui dans les autres calendriers`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

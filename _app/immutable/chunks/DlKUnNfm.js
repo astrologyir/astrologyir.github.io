@@ -1,0 +1,1 @@
+import"./DsffjfAA.js";var e=()=>`n.º`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`planeta`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`regente`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

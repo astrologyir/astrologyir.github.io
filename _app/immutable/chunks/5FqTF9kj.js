@@ -1,0 +1,1 @@
+import"./DsffjfAA.js";var e=()=>`Horarios de oración para cualquier ciudad y convención, con ángulos solares, calculados en tu dispositivo.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

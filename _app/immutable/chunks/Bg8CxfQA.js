@@ -1,0 +1,1 @@
+import"./DdLjIzlO.js";var e=()=>`jam planet`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

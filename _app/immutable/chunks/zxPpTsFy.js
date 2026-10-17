@@ -1,0 +1,1 @@
+import"./92j2z9jf.js";var e=()=>`ساعت کوکب`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./B04RCalz.js";var e=()=>`без курса`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

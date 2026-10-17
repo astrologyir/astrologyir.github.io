@@ -1,0 +1,1 @@
+import"./BSsrAro2.js";var e=()=>`القمر خالي السير + الاتصالات القادمة`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`الوقت`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`كاسب`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

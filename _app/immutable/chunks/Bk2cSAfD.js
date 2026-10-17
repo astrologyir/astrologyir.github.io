@@ -1,0 +1,1 @@
+import"./CBsIxey7.js";var e=()=>`Gebetszeiten für jede Stadt und Konvention, mit Sonnenwinkeln — auf Ihrem Gerät berechnet.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};
