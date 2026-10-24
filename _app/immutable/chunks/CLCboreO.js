@@ -1,0 +1,1 @@
+import"./DXI5DKno.js";var e=()=>`Hodisalar`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

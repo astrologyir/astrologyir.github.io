@@ -1,0 +1,1 @@
+import"./B04RCalz.js";var e=()=>`Луна без курса + сходящиеся аспекты`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Время`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`куспид`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

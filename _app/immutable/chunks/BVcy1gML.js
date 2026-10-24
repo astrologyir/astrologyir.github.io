@@ -1,0 +1,1 @@
+import"./DsffjfAA.js";var e=()=>`Luna fuera de curso + próximos aspectos`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Hora`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`cúspide`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

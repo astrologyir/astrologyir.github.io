@@ -1,0 +1,1 @@
+import"./BSsrAro2.js";var e=()=>`جارٍ البحث…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

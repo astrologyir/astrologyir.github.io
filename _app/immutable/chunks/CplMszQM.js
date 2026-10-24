@@ -1,0 +1,1 @@
+import"./DsffjfAA.js";var e=()=>`Posiciones aproximadas (paquete sin conexión pendiente)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

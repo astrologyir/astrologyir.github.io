@@ -1,0 +1,1 @@
+import"./B04RCalz.js";var e=()=>`Григорианский`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Хиджры`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e))),i=()=>`Джалали`,a=((e={},t={})=>(t.locale!==void 0&&t.locale,i(e)));export{r as n,t as r,a as t};

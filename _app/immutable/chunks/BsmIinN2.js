@@ -1,0 +1,1 @@
+import"./BsGif-uT.js";var e=()=>`پوچ‌رو (بی‌پیوند)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

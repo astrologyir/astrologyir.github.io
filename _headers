@@ -1,0 +1,11 @@
+# Cloudflare Pages header rules (copied verbatim to build/_headers).
+# GitHub Pages ignores this file — safe for dual-deploy.
+# Content-hashed assets are immutable; shells stay revalidated so the
+# SW deploy-skew guard and version.json freshness checks keep working.
+/_app/immutable/*
+  Cache-Control: public, max-age=31536000, immutable
+# The worker itself must never be served stale: update checks
+# (updateViaCache:'none' + registration.update()) revalidate sw.js, and a
+# cached copy would pin the old version forever.
+sw.js
+  Cache-Control: no-cache

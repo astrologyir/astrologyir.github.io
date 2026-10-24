@@ -1,0 +1,1 @@
+import"./CJN_y7J7.js";var e=()=>`চান্দ্র দিন`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

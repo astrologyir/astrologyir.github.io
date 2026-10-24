@@ -1,0 +1,30 @@
+{
+  "name": "آسترولوژی",
+  "short_name": "Astro",
+  "id": "./",
+  "description": "زیج روزانه احکام نجوم در مرورگر: مواضع کواکب، تقویم حظوظ، اهله قمر، اوقات خلو سیر، کسوف‌ها و وقایع فلکی.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "dir": "auto",
+  "categories": [
+    "lifestyle",
+    "utilities"
+  ],
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "og-default.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

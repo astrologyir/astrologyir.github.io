@@ -1,0 +1,1 @@
+import"./CBsIxey7.js";var e=()=>`Tägliche Ephemeriden, in Ihrem Browser berechnet: Planetenpositionen, Würde-Almanach, Mondphasen, Void-of-Course-Perioden, Finsternisse und Himmelsereignisse.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Tägliche Ephemeriden: Planeten & Mondphasen`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

@@ -1,0 +1,1 @@
+import"./DXI5DKno.js";var e=()=>`Brauzeringizda hisoblanadigan kunlik efemeris: sayyolar holati, martaviyat almanaxi, oy fazalari, bo‘sh oy davrlari, tutulishlar va osmon hodisalari.`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t))),n=()=>`Kunlik efemeris: sayyolar va oy fazalari`,r=((e={},t={})=>(t.locale!==void 0&&t.locale,n(e)));export{t as n,r as t};

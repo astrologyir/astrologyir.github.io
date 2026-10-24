@@ -1,0 +1,1 @@
+import"./CmHSURpE.js";var e=()=>`Мақолаҳо`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};
