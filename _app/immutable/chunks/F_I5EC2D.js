@@ -1,0 +1,1 @@
+import"./BmrxaAwu.js";var e=()=>`وقت`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

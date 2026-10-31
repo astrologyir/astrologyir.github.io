@@ -1,0 +1,1 @@
+import"./7K93Sn7x.js";var e=()=>`тип`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

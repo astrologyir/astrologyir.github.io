@@ -1,0 +1,1 @@
+import"./Dwy4jDAj.js";var e=()=>`Accueil`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./CLssOA9a.js";var e=()=>`زیک روزانه (تقویم اخترشناسی)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

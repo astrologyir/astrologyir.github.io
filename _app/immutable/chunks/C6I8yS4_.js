@@ -1,0 +1,1 @@
+import"./CLssOA9a.js";var e=()=>`در حال شمارت در مرورگر شما…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

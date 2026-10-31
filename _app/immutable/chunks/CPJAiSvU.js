@@ -1,0 +1,1 @@
+import"./BuW6ovpN.js";var e=()=>`Ereignisse`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

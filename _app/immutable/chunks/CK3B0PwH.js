@@ -1,0 +1,1 @@
+import"./CLssOA9a.js";var e=()=>`امروز`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

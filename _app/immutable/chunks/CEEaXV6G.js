@@ -1,0 +1,1 @@
+import"./Cbz-S6v5.js";var e=()=>`ҳисоб мешавад…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

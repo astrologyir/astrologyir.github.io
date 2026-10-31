@@ -1,0 +1,50 @@
+# astrologyir.github.io
+
+ is a browser-native astrology ephemeris: planetary
+positions, the dignity almanac, Moon phases, void-of-course periods,
+eclipses and sky events, computed on the visitor's device with the
+Swiss Ephemeris. Nothing entered — location, date, birth details — is
+sent to a server. Free, no account.
+
+Canonical origin: https://astrologyir.github.io
+
+## Locales
+
+https://astrologyir.github.io/en is the English home. Every locale has its own
+URL (`/fa`, `/ar`, `/de`, …); each page carries its own canonical and
+hreflang alternates. The wording above is the product in one sentence
+for every locale.
+
+## Routes
+
+- `/` — a redirector to the visitor's locale. Self-canonical but noindex;
+  do not cite it, cite the locale home.
+- `/en`, `/fa`, … — the daily dashboard: the product. Title carries the
+  ephemeris keywords and the apex name.
+- `/en/natal` — natal charts. Stateful via query params; the canonical
+  strips them, so each date is the same page to a crawler.
+- `/en/events` — eclipse search (solar + lunar) over a date range.
+- `/en/prayer` — prayer times by city and convention.
+- `/en/map`, `/en/complex`, `/en/synastry` — astro-cartography, transit
+  double wheels, chart comparison.
+- `/en/settings` — language, calendar (Jalali/Gregorian/Hijri), appearance.
+- `/en/article`, `/en/article/<slug>` — long-form pieces on Persian
+  astrology and astronomy, one markdown source per locale.
+
+## How to read this site
+
+The dashboard's numbers are computed client-side in WebAssembly. The
+static HTML of every locale home carries a ~200-word prose block
+explaining the ephemeris, real headings, and the full JSON-LD graph
+(WebSite, WebApplication, Organization). The per-second planet data only
+exists after JavaScript runs.
+
+## Contact
+
+- Email: irastrology@gmail.com
+- X: https://twitter.com/AstrologyIr
+- Facebook: https://www.facebook.com/astrology.ir
+- Instagram: https://www.instagram.com/ir_astrology
+- Telegram: https://t.me/AstrologyIr
+
+Sitemap: https://astrologyir.github.io/sitemap.xml

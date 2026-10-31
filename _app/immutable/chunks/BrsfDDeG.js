@@ -1,0 +1,1 @@
+import"./DYIZKZGe.js";var e=()=>`نقشه`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

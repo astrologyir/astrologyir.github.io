@@ -1,0 +1,1 @@
+import"./BGmqsCNN.js";var e=()=>`signo`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

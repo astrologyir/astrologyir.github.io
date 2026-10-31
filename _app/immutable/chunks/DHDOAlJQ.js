@@ -1,0 +1,1 @@
+import"./7K93Sn7x.js";var e=()=>`Рассчитать`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

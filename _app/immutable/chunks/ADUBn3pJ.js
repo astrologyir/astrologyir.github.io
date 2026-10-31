@@ -1,0 +1,1 @@
+import"./DKtlCVjR.js";var e=()=>`Oy manzili`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

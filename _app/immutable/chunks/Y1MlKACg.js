@@ -1,0 +1,1 @@
+import"./BGmqsCNN.js";var e=()=>`falló el cálculo`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

@@ -1,0 +1,1 @@
+import"./7K93Sn7x.js";var e=()=>`Приблизительные положения (офлайн-пакет в пути)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};
