@@ -1,0 +1,1 @@
+import"./Dx-DpZ2X.js";var e=()=>`Yaklaşık konumlar (çevrimdışı paket yolda)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

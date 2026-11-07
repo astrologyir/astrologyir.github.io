@@ -1,0 +1,37 @@
+{
+  "v": 3,
+  "built": "2026-11-07T10:36:45.172Z",
+  "rows": 236953,
+  "cities": 236953,
+  "badTz": 0,
+  "altCities": 128739,
+  "shards": {
+    "latin": 45016,
+    "arabic": 29024,
+    "cyrillic": 28680,
+    "cjk": 75379,
+    "other": 99,
+    "indic": 7
+  },
+  "prefixes": 178205,
+  "prefixShards": {
+    "latin": 64,
+    "arabic": 64,
+    "cyrillic": 64,
+    "cjk": 64,
+    "other": 25,
+    "indic": 3
+  },
+  "countries": 246,
+  "countryFiles": 246,
+  "indexBytes": 3518716,
+  "topBytes": 9997,
+  "namesBytes": 9514802,
+  "countriesBytes": 3637,
+  "indexGz": 2225107,
+  "prefixShardBytes": 6322705,
+  "topGz": 7410,
+  "namesGz": 3697169,
+  "countriesGz": 1162,
+  "countryGzTotal": 9063229
+}

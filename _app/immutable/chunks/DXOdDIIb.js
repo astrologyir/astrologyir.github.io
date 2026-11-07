@@ -1,0 +1,1 @@
+import"./7K93Sn7x.js";var e=()=>`Сегодня в других календарях`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};
