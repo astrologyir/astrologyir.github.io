@@ -1,0 +1,1 @@
+import"./Dn2cuyjw.js";var e=()=>`مواقع تقريبية (حزمة عدم الاتصال قادمة)`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

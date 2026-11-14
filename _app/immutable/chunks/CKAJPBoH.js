@@ -1,0 +1,1 @@
+import"./C98poiAO.js";var e=()=>`রাশি`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

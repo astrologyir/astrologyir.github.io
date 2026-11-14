@@ -1,0 +1,1 @@
+import"./BVpj1do_.js";var e=()=>`Computing in your browser…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};
