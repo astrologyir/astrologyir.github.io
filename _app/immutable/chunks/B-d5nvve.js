@@ -1,0 +1,1 @@
+import"./Dn2cuyjw.js";var e=()=>`احسب`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};
