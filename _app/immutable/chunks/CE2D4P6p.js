@@ -1,0 +1,1 @@
+import"./Cbz-S6v5.js";var e=()=>`Дар браузери шумо ҳисоб мешавад…`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

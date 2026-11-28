@@ -1,0 +1,1 @@
+import"./DYIZKZGe.js";var e=()=>`مبنای محاسبه:`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};

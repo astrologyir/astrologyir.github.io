@@ -1,0 +1,1 @@
+import"./D7PHs6X7.js";var e=()=>`حساب ناکام شو`,t=((t={},n={})=>(n.locale!==void 0&&n.locale,e(t)));export{t};
